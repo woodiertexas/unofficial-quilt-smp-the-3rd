@@ -1,0 +1,11 @@
+{
+	// Represents a list of mods to ignore for a specific data generator.
+	// Example:
+	// datagen_exclusions: {
+	//   "somemod:some_generator": [ "some_modid" ]
+	// }
+	datagen_exclusions: {},
+	// Whether or not to debug print data generation
+	// default: false
+	debug_mode: false
+}

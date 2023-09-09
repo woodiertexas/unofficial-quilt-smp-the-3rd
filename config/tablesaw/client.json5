@@ -1,0 +1,9 @@
+{
+	// How to display ratios on recipe icons in the TableSaw interface.
+	// options: NONE, RATIO, STRICT_RATIO, OUTPUT_COUNT
+	// default: OUTPUT_COUNT
+	iconRatios: "OUTPUT_COUNT",
+	// If true, overrides the name in recipe tooltips to show the input -> output ratio.
+	// default: true
+	ratioTooltip: true
+}
