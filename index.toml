@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "69b11be97f74c2f0c626aa2113e1bfcf73d5123df56435a30a4bc1112b2c91ed"
+hash = "11df7f0984f67fa62b3f8f58581b7757ac9f736065b4f8732b0398420409fab8"
 
 [[files]]
 file = "README.md"
@@ -22,7 +22,7 @@ hash = "8d0a8e739dbbdae349b8303275f6528e07f204e994cbbf459ba254a7a00a4c16"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "a44aba8593f8285cc586756bd1c2ed5ac6f374f91c8139e13966478785492d77"
+hash = "499822e82b7e815cb31c334dfef44c386e7370e4df7ea71087c7f33d06fa2ae1"
 
 [[files]]
 file = "config/fabrictailor.json"
@@ -34,7 +34,7 @@ hash = "b9390a382b4f972129247fb6fb79d82602d9df8d90de687a985eb49b9aa50cce"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
 [[files]]
 file = "config/foxbox/foxbox.json5"
@@ -46,11 +46,11 @@ hash = "9ea14bd6d5bc3f82811c0500f7c1a06dc9b90918a95165a22f204406c9fd31cf"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "aeedf7031389fc28c1cec4a695a2c1e95aab9200fd0e3026a8d649739ac1c656"
+hash = "4282abcc9a6fe29d5d6184d010c4884e1a5192439707b4744d8646d43dee80ab"
 
 [[files]]
 file = "config/iris.properties"
-hash = "267cc72e32e55bb50e9aac186cd826fe34e0f59945a37efebd295c46c96263ca"
+hash = "bbfab26ee9183e81742d011d42198848f108a919ef7bbb77fc7061ca99084d32"
 
 [[files]]
 file = "config/journeymap-server.json"
@@ -74,11 +74,11 @@ hash = "c514a51c23a36414c4aadb6e4852aa39fcca9513479b43fe1bdb3a70ca87a5e3"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
-hash = "7156362d0ae214adbd95bf9d5f54f58c0f4cbfc3d02091e61bbc78608bd52884"
+hash = "bdf01eb4a2f267c1b3ff7fee439115a332c3895bae359a08e60d071290dcc67b"
 
 [[files]]
 file = "config/pal.properties"
-hash = "76c7af1fb1683e87cae44b6f2d8ca4bbff257479f5a98993c487cdf113ba1f4e"
+hash = "b1036e21d3a85f6c2977b10b990dfb325257b6b2c7672a31d6f460d98ad60177"
 
 [[files]]
 file = "config/player-pronouns.json"
@@ -110,11 +110,11 @@ hash = "8e818adafa45cc7d594adf5f405deacecbaa66763ff1bc3fa166c4c42446f238"
 
 [[files]]
 file = "config/quilt-loader.txt"
-hash = "9d08aea47f872bc2f2b321429628b95436e4414e24e349023eb4e072a1d38c74"
+hash = "c8581229251a6b967c53082d3994223126a10f701c2d4fc606ca3f0bee6b4b6c"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
-hash = "6e5e099502e7ec340a746acd7d019141e5937f623383f842ddcc3c503425f7cc"
+hash = "1a18dacc6cb807c3e2591482225d05f729e9e40872bdfacae4c439d9b43da842"
 
 [[files]]
 file = "config/roles.json"
@@ -122,7 +122,7 @@ hash = "dccf77a066d091af8b9987f5acb5a611fd056622625c01e938e3e7e69c30367c"
 
 [[files]]
 file = "config/rrp.properties"
-hash = "6d6638bfe31f28d667aa95a9874a182d4ae015319508bcbbd24168dd8534efcb"
+hash = "edd35b2dca217a49ac1a79e1d86050d3bb2bf1507ee8af6b234743468210fc3c"
 
 [[files]]
 file = "config/saplanting.json"
@@ -138,7 +138,7 @@ hash = "8789438cc1e889385029f4c26d3037cc7ede3808f919b9f0870cfe3d40e2c313"
 
 [[files]]
 file = "config/statement/config.json"
-hash = "128fdbe7883e8755d4858f050ad8b91a6ed07a7cde7eac16da504bffe80ee33d"
+hash = "bd4cb1aef6e53c23dcbd5639562eee2ae745e9909f99292091d3e8cbb3dc6d8b"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -162,7 +162,7 @@ hash = "9d4960fd9366a91b9f37ed7f7761affb462b9b5f65f35670e09f7d374e2195b0"
 
 [[files]]
 file = "config/switchy/config.toml"
-hash = "f1fb5ebf533d1f237e8ca45fe5e5499a54157de569023d3efcc83647b86c220f"
+hash = "5a01b6a868d8ebcad6f7066b1f04410a066063c3be5c0a33612b3cd909b07635"
 
 [[files]]
 file = "config/tablesaw/client.json5"
@@ -198,11 +198,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
-hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+hash = "d1f01c1b88e9f0273da1a90cd0c5d0ff62c2313b7ef4c901993aa8cafa84e5d6"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "cc6ed1e4e7dec361fb0a95fb70e9250e5ef45255547df5fe91412cb0899d15a0"
+hash = "19990b6d689077117b2b85e26ce2c0866c3f0426b6c82dc607eb9b3f7e777f9a"
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "db4bff8799afd66fc712ca7363cbabab7692f2d9291dac49df973e52e92292ef"
+hash = "037f15577ca5bcf415b262fad47b09c1ed976ecabf490b32db859f7c8fbf6ea5"
 
 [[files]]
 file = "resources/QDResLoader-README.txt"
