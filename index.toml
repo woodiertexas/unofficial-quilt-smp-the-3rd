@@ -1,0 +1,13 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "e67fdabdeb28019619054d939f8c8f9c0439478803dc719a744b1125b62e289c"
+
+[[files]]
+file = "LICENSE"
+hash = "11df7f0984f67fa62b3f8f58581b7757ac9f736065b4f8732b0398420409fab8"
+
+[[files]]
+file = "README.md"
+hash = "7436e320fb37aa8238d338d6839d60965bb2908e16beb360866047f62845bc0c"
