@@ -1,0 +1,13 @@
+name = "Arboria Saplings"
+filename = "arboria_saplings_v1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TnDsxSIu/versions/nEiT7bCT/arboria_saplings_v1.1.zip"
+hash-format = "sha1"
+hash = "1257e61b983d0119b1d053bb0b4b6f092be1a180"
+
+[update]
+[update.modrinth]
+mod-id = "TnDsxSIu"
+version = "nEiT7bCT"
