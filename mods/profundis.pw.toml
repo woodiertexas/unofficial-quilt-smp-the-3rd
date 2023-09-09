@@ -1,6 +1,6 @@
 name = "Profundis: Seven New Quality Cave Biomes"
 filename = "profundis-1.6.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/aucz7XCt/versions/PyaRCgYQ/profundis-1.6.0.jar"

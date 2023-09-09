@@ -1,6 +1,6 @@
 name = "Steep Surface Fix"
 filename = "steep-surface-fix-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tWif3i7K/versions/z1kfixae/steep-surface-fix-1.0.0.jar"

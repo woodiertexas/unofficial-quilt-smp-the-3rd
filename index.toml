@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/banhammer.pw.toml"
-hash = "27b096c8d024c3c935c4c8f099da3516f0a111e61f2e36a995a79b3f9c08dd53"
+hash = "98f559fb078342bbd0db33ccfc047cb44edd47892b2de1e4342a5a36eb6b4ddf"
 metafile = true
 
 [[files]]
@@ -321,12 +321,12 @@ metafile = true
 
 [[files]]
 file = "mods/player-roles.pw.toml"
-hash = "3e6b62519a11e182b8913e1ab2f28b6dd22aead33cb63d8102b70e073cbf0ebd"
+hash = "4b2be8780a6100d41abcffb4f6c0a26e45feff35f060aedb79d2d389d6f69e65"
 metafile = true
 
 [[files]]
 file = "mods/profundis.pw.toml"
-hash = "a3653ee234c1070aefbb78ab7309b9dde7a27b211306cbd294e84c5fc7b89ac6"
+hash = "11326803a906eacf44ec827af5b13d5cbe9b97582dc087a1a5090edc612f5374"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/steep-surface-fix.pw.toml"
-hash = "b13a0bd64c3822300fe58bc2825c63fa7ea6bb2d1fba7a948ebd70b8e93dac64"
+hash = "36b28bb6cc09a13632ee75283071f4fbda59ee56815099f313fc9d81d6fe5d02"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchykit.pw.toml"
-hash = "899a8fd91b062153a42a7a37a86e48bc455c28b926f2a0bef6a5c6b4313091ef"
+hash = "be6df0675d9aa6ba25b569bd6986a0457ce08631b157e3ca718b2cbf89cd2da2"
 metafile = true
 
 [[files]]
