@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "11df7f0984f67fa62b3f8f58581b7757ac9f736065b4f8732b0398420409fab8"
-
-[[files]]
-file = "README.md"
-hash = "24a86d920b5a3d229b3a658bfb49988848091b62dc3f027167ff622d072362bf"
-
-[[files]]
 file = "config/auto_slabs.json"
 hash = "334c5d89e007a6b007b000da782ee85eafb6fbc4bf60744b4edb2c148f83158d"
 
