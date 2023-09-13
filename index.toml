@@ -524,10 +524,6 @@ file = "resources/QDResLoader-README.txt"
 hash = "25ff5818726d9d149ae930319e216f3b812629b4dd90b36efde35ed5bb6b6e04"
 
 [[files]]
-file = "resources/datapacks/Continents_1.20.1_v1.1.2.jar"
-hash = "6c82c47f4e55af8c039bb1863ff3095f750c653716652fbd16acd53c124e2f85"
-
-[[files]]
 file = "resources/datapacks/arboria-saplings.pw.toml"
 hash = "8e259ff661cfeb43c5124694d7f8770c2f0c53927f19dd752f47bcd2cbd991e1"
 metafile = true
@@ -536,14 +532,6 @@ metafile = true
 file = "resources/datapacks/arboria.pw.toml"
 hash = "bad021c5e25eff83611d4c8764d7009d41a1cf90eb0b12008d5b5b3ba115563e"
 metafile = true
-
-[[files]]
-file = "resources/datapacks/arboria_saplings_v1.1.zip"
-hash = "4d7f9dfe2c98c259421fb6d24e6af17e65c3ace4ead28b2dd866a9677d443fbc"
-
-[[files]]
-file = "resources/datapacks/arboria_v1.1.1.zip"
-hash = "f9f4dcedc067954dacd19c30dbb9c77b027554149083f226a7e04dd8cfdef62e"
 
 [[files]]
 file = "resources/datapacks/continents.pw.toml"
