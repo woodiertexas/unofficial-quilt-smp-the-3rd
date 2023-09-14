@@ -539,6 +539,16 @@ hash = "d2237aec9a96508d717b505bc6d99f141418d7116ecab7e69e7543fba708a200"
 metafile = true
 
 [[files]]
+file = "resources/datapacks/higher-nether-max-build-height.pw.toml"
+hash = "4de5b83bd22fbffd32485b7776d4802a9ea556a3e55e00eaf1caeea6e96ee221"
+metafile = true
+
+[[files]]
+file = "resources/datapacks/incendium.pw.toml"
+hash = "9b5d719c6cbc3da3995f00a0270b2ac200e5a2e6b3b0585c65727524b0f2d499"
+metafile = true
+
+[[files]]
 file = "resources/datapacks/smp_overrides/data/arboria/tags/blocks/stone_slabs.json"
 hash = "279ac17127ee617e389f8317c568fba9dbd405c4bb5e217fc2b6c1a17291ee31"
 
