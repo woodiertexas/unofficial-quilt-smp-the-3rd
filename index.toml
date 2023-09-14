@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/banhammer.pw.toml"
-hash = "98f559fb078342bbd0db33ccfc047cb44edd47892b2de1e4342a5a36eb6b4ddf"
+hash = "27b096c8d024c3c935c4c8f099da3516f0a111e61f2e36a995a79b3f9c08dd53"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-roles.pw.toml"
-hash = "4b2be8780a6100d41abcffb4f6c0a26e45feff35f060aedb79d2d389d6f69e65"
+hash = "3e6b62519a11e182b8913e1ab2f28b6dd22aead33cb63d8102b70e073cbf0ebd"
 metafile = true
 
 [[files]]
@@ -437,17 +437,17 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "4df7a83e4162bb71e20ef2bea25042daadf04ac5daab143b0035af0405160b65"
+hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
+hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
 metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
-hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
+hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
 metafile = true
 
 [[files]]
