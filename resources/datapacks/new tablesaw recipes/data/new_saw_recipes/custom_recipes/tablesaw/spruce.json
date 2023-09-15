@@ -1,0 +1,33 @@
+[
+	{
+		"input": {
+			"item": "minecraft:spruce_log",
+			"count": 1
+		},
+		"result": {
+			"item": "minecraft:spruce_planks",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "minecraft:spruce_log",
+			"count": 1
+		},
+		"result": {
+			"item": "architecture_extensions:minecraft/spruce_beam",
+			"count": 1
+		}
+	}
+	,
+	{
+		"input": {
+			"item": "minecraft:spruce_log",
+			"count": 1
+		},
+		"result": {
+			"item": "architecture_extensions:minecraft/spruce_joist",
+			"count": 1
+		}
+	}
+]

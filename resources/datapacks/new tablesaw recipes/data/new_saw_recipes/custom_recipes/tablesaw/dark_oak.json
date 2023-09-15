@@ -1,0 +1,33 @@
+[
+	{
+		"input": {
+			"item": "minecraft:dark_oak_log",
+			"count": 1
+		},
+		"result": {
+			"item": "minecraft:dark_oak_planks",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "minecraft:dark_oak_log",
+			"count": 1
+		},
+		"result": {
+			"item": "architecture_extensions:minecraft/dark_oak_beam",
+			"count": 1
+		}
+	}
+	,
+	{
+		"input": {
+			"item": "minecraft:dark_oak_log",
+			"count": 1
+		},
+		"result": {
+			"item": "architecture_extensions:minecraft/dark_oak_joist",
+			"count": 1
+		}
+	}
+]
