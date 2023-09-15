@@ -13,20 +13,28 @@ file = "config/carpet/default_carpet.conf"
 hash = "dd95721929538c1db8a851cbaf1fe1b8b2327e5e03f382957814b2c5dc05bbf7"
 
 [[files]]
+file = "config/cinderscapes.json"
+hash = "baa611cf438ebc9eaf7c963c4201e48339d4f759d8a76bf6b487c3406a201292"
+
+[[files]]
+file = "config/companion-common.yaml"
+hash = "d2699076e6295aefd93532404e9f82608f7180022ce352b36690e66e03f3b85d"
+
+[[files]]
 file = "config/defaultresources.json"
 hash = "801d272d1f8c9f70eed80c9cf5b0a6fcdbeb8f681c51fd6c73ef1a9a7e31607d"
 
 [[files]]
 file = "config/emi.css"
-hash = "8d0a8e739dbbdae349b8303275f6528e07f204e994cbbf459ba254a7a00a4c16"
+hash = "0b60b452d6ed6211ec2eb614232f559b677caddae12bde6523f43ad3f7456504"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "68956a4ffcdf6eb018388b165dfffbd739741471fa7a46589d94c88c256196c3"
+hash = "41a30fb406bf2623dbd7c317726c4ca748519c9bdc711abd891685126ec9f863"
 
 [[files]]
 file = "config/fabrictailor.json"
-hash = "473422fd160afd1570d0bcc8f225f0d15362ac511a3fa3e1fbd4948e489046df"
+hash = "3f0de790020e1be4ea15049de34588f8d51f29bfb154a6b318808ec60e9b7e52"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -41,20 +49,28 @@ file = "config/foxbox/foxbox.json5"
 hash = "1c90e56d15a68e1958ce981a5fd70b57f13df4e8e57717f2922a5f2e8790bb9f"
 
 [[files]]
+file = "config/frozenlib.json5"
+hash = "1b52d31c7b1067e3d4489d5706d5be3dc9239b835bd51996fa4b4df71447a0ff"
+
+[[files]]
 file = "config/getoffmylawn.json"
 hash = "9ea14bd6d5bc3f82811c0500f7c1a06dc9b90918a95165a22f204406c9fd31cf"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "966f52b4bf57399b9627766263ba0185840e0af1031fd5098da14be2ae927e20"
+hash = "ac38907444ae745c0c0bedbb2757f06f86fdb46ce917c3a99d79120ebf37b3a7"
 
 [[files]]
 file = "config/iris.properties"
-hash = "77ad5b6c0599f7d0b96ff2e7d3cd6fc7826b4fcf0cfbf363f6a2b66940eaf3ac"
+hash = "acb6382dec59293dc8ba4a6f68c8fbb56da9bee18c6b435766a9dfa459c34ea5"
 
 [[files]]
 file = "config/journeymap-server.json"
 hash = "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca"
+
+[[files]]
+file = "config/kiwi-client.yaml"
+hash = "834b091f4b9687c1a6cd98caf4a93557ca4af210d4cbbf4aee8083747b8a5cf5"
 
 [[files]]
 file = "config/languagereload.json"
@@ -79,6 +95,10 @@ hash = "d346536c5e08e395084dc30fcdd8d5f5e9e31e60d4838a135fc9d3f5c796905d"
 [[files]]
 file = "config/modmenu.json"
 hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
+
+[[files]]
+file = "config/moonlight-client.json"
+hash = "ba77be920f70275ccecd2c2859e52049742edc3972c1ff05044ee46c940d9375"
 
 [[files]]
 file = "config/myloot.json5"
@@ -134,7 +154,7 @@ hash = "d0828e55d1d2f265525cd44f04123f62497b6b4fd1534ec17edeb442165fe9ce"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
-hash = "6e5e099502e7ec340a746acd7d019141e5937f623383f842ddcc3c503425f7cc"
+hash = "0c560fa2d0418649418e323e5750e8d66629c7927663663ac93bc90304f5dc68"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -150,7 +170,15 @@ hash = "edd35b2dca217a49ac1a79e1d86050d3bb2bf1507ee8af6b234743468210fc3c"
 
 [[files]]
 file = "config/saplanting.json"
-hash = "88f771d3cf313a6f72dc7e6e45d46ad2d7217e4c97b79d567cdbae4a05f73580"
+hash = "3d299567a719f6256232a74e8c3e62a873a88c10deef623837b6c9cee3816ac9"
+
+[[files]]
+file = "config/snowrealmagic-client.yaml"
+hash = "34909564dc66fb400f716437577c349965144e46febfb432a388aed3b0fe81e9"
+
+[[files]]
+file = "config/snowrealmagic-common.yaml"
+hash = "b698d3b9e5636fc2c0879314e59c0c4d1ca509a25b21abdd439ff787fb3f44e5"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -166,7 +194,7 @@ hash = "bd4cb1aef6e53c23dcbd5639562eee2ae745e9909f99292091d3e8cbb3dc6d8b"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "cc712fe6daf1a64427bdcba504d09396496f1d00d98c0f84e1f64014bd296b08"
+hash = "d30b15c346059fa1882fbc974edbbfac63dbb1185e193fe391c90113f29e50f5"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -226,7 +254,7 @@ hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "cc6ed1e4e7dec361fb0a95fb70e9250e5ef45255547df5fe91412cb0899d15a0"
+hash = "f7319a6908aa35590c58a056257b81f5abab902f3d0016e64ce8713eb8f75990"
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
@@ -533,8 +561,68 @@ hash = "9b5d719c6cbc3da3995f00a0270b2ac200e5a2e6b3b0585c65727524b0f2d499"
 metafile = true
 
 [[files]]
+file = "resources/datapacks/new tablesaw recipes/data/new_saw_recipes/custom_recipes/tablesaw/acacia.json"
+hash = "c897bee5224414fa716927993e9e3d98150d3295c7090a86d0f829d7890e5b1d"
+
+[[files]]
+file = "resources/datapacks/new tablesaw recipes/data/new_saw_recipes/custom_recipes/tablesaw/birch.json"
+hash = "58f3e84cbfb8f9b6c22b2439227ea9b3d7f9ba7584d321bd4890867b85961f8a"
+
+[[files]]
+file = "resources/datapacks/new tablesaw recipes/data/new_saw_recipes/custom_recipes/tablesaw/cherry_blossom.json"
+hash = "5a1ff18f36f4ecf481402b9a0f6181703d93342ab9a1aa040bf401849b524c8b"
+
+[[files]]
+file = "resources/datapacks/new tablesaw recipes/data/new_saw_recipes/custom_recipes/tablesaw/dark_oak.json"
+hash = "9e7836ee840d8317f3f2a03e774b2c8fc97192cca69f7f30fbeb8a0541ef57cf"
+
+[[files]]
+file = "resources/datapacks/new tablesaw recipes/data/new_saw_recipes/custom_recipes/tablesaw/jungle.json"
+hash = "4c495553c520a0c1d4ae4762e11b6bbfaa77c384557f30db0994b9fef634bbd2"
+
+[[files]]
+file = "resources/datapacks/new tablesaw recipes/data/new_saw_recipes/custom_recipes/tablesaw/mangrove.json"
+hash = "a9cb8dda95a215746ced15c1d8e31c2a3a3d00ddab495a7fc3487d3bbcab0a68"
+
+[[files]]
+file = "resources/datapacks/new tablesaw recipes/data/new_saw_recipes/custom_recipes/tablesaw/oak.json"
+hash = "80dbdd4658d39f12920899b7ecd73ff9e32d44fe2dbc6d100c196a585ce2f10c"
+
+[[files]]
+file = "resources/datapacks/new tablesaw recipes/data/new_saw_recipes/custom_recipes/tablesaw/spruce.json"
+hash = "36bb34f389c8e4819fa668a0e918782441df166d7135b22187f577c228199e42"
+
+[[files]]
+file = "resources/datapacks/new tablesaw recipes/data/new_saw_recipes/custom_recipes/tablesaw/warped.json"
+hash = "f53b70b0a545c386949bbb935f673eb44ee23619af1186df57e1f342994f983a"
+
+[[files]]
 file = "resources/datapacks/smp_overrides/data/arboria/tags/blocks/stone_slabs.json"
 hash = "279ac17127ee617e389f8317c568fba9dbd405c4bb5e217fc2b6c1a17291ee31"
+
+[[files]]
+file = "resources/datapacks/smp_overrides/data/arboria/worldgen/configured_feature/island/cold_ocean/base.json"
+hash = "585d6e19abc9b76da5fc2803c3669fe404a9e2706f3932aa2f673da3ce185c08"
+
+[[files]]
+file = "resources/datapacks/smp_overrides/data/arboria/worldgen/configured_feature/island/lukewarm_ocean/base.json"
+hash = "585d6e19abc9b76da5fc2803c3669fe404a9e2706f3932aa2f673da3ce185c08"
+
+[[files]]
+file = "resources/datapacks/smp_overrides/data/arboria/worldgen/configured_feature/island/lukewarm_ocean/vegetation.json"
+hash = "585d6e19abc9b76da5fc2803c3669fe404a9e2706f3932aa2f673da3ce185c08"
+
+[[files]]
+file = "resources/datapacks/smp_overrides/data/arboria/worldgen/configured_feature/island/ocean/base.json"
+hash = "585d6e19abc9b76da5fc2803c3669fe404a9e2706f3932aa2f673da3ce185c08"
+
+[[files]]
+file = "resources/datapacks/smp_overrides/data/arboria/worldgen/configured_feature/island/warm_ocean/base.json"
+hash = "585d6e19abc9b76da5fc2803c3669fe404a9e2706f3932aa2f673da3ce185c08"
+
+[[files]]
+file = "resources/datapacks/smp_overrides/data/arboria/worldgen/configured_feature/island/warm_ocean/vegetation.json"
+hash = "8ad8fed224ab268b19f672fcccfd8fbd21f9b5dc64c60f0a9412fb24d5b4f75a"
 
 [[files]]
 file = "resources/datapacks/smp_overrides/data/arboria/worldgen/placed_feature/bottom/stone_slab.json"
