@@ -282,6 +282,11 @@ hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "e291de29548596119100097a03c0a7ad5adf241c6094b54ae5a5993cb20a92a9"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
@@ -344,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "2fca316094aaba7621f614ebe9f26e50992797b8c63c6528e8b3fad35e885d7b"
 metafile = true
 
 [[files]]
@@ -434,6 +444,11 @@ metafile = true
 [[files]]
 file = "mods/saplanting.pw.toml"
 hash = "88f46c9c462a0a84f3d10a78389210d225ea9edd8f22049a9f0e7f6ad294692f"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "093e8ae19904662ab500b4a3aa4be01c2961c0cc6d4c345a684225f079886718"
 metafile = true
 
 [[files]]
@@ -595,6 +610,11 @@ hash = "36bb34f389c8e4819fa668a0e918782441df166d7135b22187f577c228199e42"
 [[files]]
 file = "resources/datapacks/new tablesaw recipes/data/new_saw_recipes/custom_recipes/tablesaw/warped.json"
 hash = "f53b70b0a545c386949bbb935f673eb44ee23619af1186df57e1f342994f983a"
+
+[[files]]
+file = "resources/datapacks/nullscape.pw.toml"
+hash = "be14d9e96b119117afce2c77700bcae11d21cdc276471b54bbf3cf89496e2060"
+metafile = true
 
 [[files]]
 file = "resources/datapacks/smp_overrides/data/arboria/tags/blocks/stone_slabs.json"
