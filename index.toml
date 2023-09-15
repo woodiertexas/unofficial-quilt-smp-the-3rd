@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
 
 [[files]]
@@ -528,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "resources/datapacks/higher-nether-max-build-height.pw.toml"
-hash = "4de5b83bd22fbffd32485b7776d4802a9ea556a3e55e00eaf1caeea6e96ee221"
+hash = "9f6b977b95db53b4912e3341bc8e283693d4a45b97a5f7a545d6df0a87dc3c85"
 metafile = true
 
 [[files]]
