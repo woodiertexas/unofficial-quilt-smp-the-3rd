@@ -45,10 +45,6 @@ file = "config/getoffmylawn.json"
 hash = "9ea14bd6d5bc3f82811c0500f7c1a06dc9b90918a95165a22f204406c9fd31cf"
 
 [[files]]
-file = "config/immersive_melodies.json"
-hash = "e459a4758d11693a9e3880807aee4c0b295155c60b2e83827f48fd6c72893980"
-
-[[files]]
 file = "config/indium-renderer.properties"
 hash = "966f52b4bf57399b9627766263ba0185840e0af1031fd5098da14be2ae927e20"
 
@@ -155,14 +151,6 @@ hash = "edd35b2dca217a49ac1a79e1d86050d3bb2bf1507ee8af6b234743468210fc3c"
 [[files]]
 file = "config/saplanting.json"
 hash = "88f771d3cf313a6f72dc7e6e45d46ad2d7217e4c97b79d567cdbae4a05f73580"
-
-[[files]]
-file = "config/sodium-extra-options.json"
-hash = "fb0e4b923340b930b18fbcf8d5f560e4bf6af5e25149c18f63752a53fa13d67c"
-
-[[files]]
-file = "config/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sodium-mixins.properties"
