@@ -1,0 +1,33 @@
+[
+	{
+		"input": {
+			"item": "minecraft:jungle_log",
+			"count": 1
+		},
+		"result": {
+			"item": "minecraft:jungle_planks",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "minecraft:jungle_log",
+			"count": 1
+		},
+		"result": {
+			"item": "architecture_extensions:minecraft/jungle_beam",
+			"count": 1
+		}
+	}
+	,
+	{
+		"input": {
+			"item": "minecraft:jungle_log",
+			"count": 1
+		},
+		"result": {
+			"item": "architecture_extensions:minecraft/jungle_joist",
+			"count": 1
+		}
+	}
+]

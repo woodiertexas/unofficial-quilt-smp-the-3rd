@@ -5,6 +5,7 @@
 [moduleEditable]
 	"switchy_teleport:spawn_point" = "OPERATOR"
 	"switchy_inventories:ender_chests" = "OPERATOR"
+	"switchy_inventories:trinkets" = "OPERATOR"
 	"switchy_inventories:experience" = "OPERATOR"
 	"switchy_inventories:inventories" = "OPERATOR"
 	"switchy_teleport:last_location" = "OPERATOR"

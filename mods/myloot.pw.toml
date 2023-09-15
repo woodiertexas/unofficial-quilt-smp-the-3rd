@@ -1,0 +1,13 @@
+name = "myLoot"
+filename = "myloot-4.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kHc6jKsv/versions/l74cjwnw/myloot-4.0.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "4a8043b5d3e2fbb0c1feeb5ab0678eac4d581f16"
+
+[update]
+[update.modrinth]
+mod-id = "kHc6jKsv"
+version = "l74cjwnw"

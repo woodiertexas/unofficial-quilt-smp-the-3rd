@@ -1,0 +1,33 @@
+[
+	{
+		"input": {
+			"item": "minecraft:acacia_log",
+			"count": 1
+		},
+		"result": {
+			"item": "minecraft:acacia_planks",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "minecraft:acacia_log",
+			"count": 1
+		},
+		"result": {
+			"item": "architecture_extensions:minecraft/acacia_beam",
+			"count": 1
+		}
+	}
+	,
+	{
+		"input": {
+			"item": "minecraft:acacia_log",
+			"count": 1
+		},
+		"result": {
+			"item": "architecture_extensions:minecraft/acacia_joist",
+			"count": 1
+		}
+	}
+]

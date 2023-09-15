@@ -1,0 +1,33 @@
+[
+	{
+		"input": {
+			"item": "minecraft:warped_log",
+			"count": 1
+		},
+		"result": {
+			"item": "minecraft:warped_planks",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "minecraft:warped_log",
+			"count": 1
+		},
+		"result": {
+			"item": "architecture_extensions:minecraft/warped_beam",
+			"count": 1
+		}
+	}
+	,
+	{
+		"input": {
+			"item": "minecraft:warped_log",
+			"count": 1
+		},
+		"result": {
+			"item": "architecture_extensions:minecraft/warped_joist",
+			"count": 1
+		}
+	}
+]

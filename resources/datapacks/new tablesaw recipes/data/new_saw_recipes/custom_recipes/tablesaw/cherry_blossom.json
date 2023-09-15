@@ -1,0 +1,33 @@
+[
+	{
+		"input": {
+			"item": "minecraft:cherry_blossom_log",
+			"count": 1
+		},
+		"result": {
+			"item": "minecraft:cherry_blossom_planks",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "minecraft:cherry_blossom_log",
+			"count": 1
+		},
+		"result": {
+			"item": "architecture_extensions:minecraft/cherry_blossom_beam",
+			"count": 1
+		}
+	}
+	,
+	{
+		"input": {
+			"item": "minecraft:cherry_blossom_log",
+			"count": 1
+		},
+		"result": {
+			"item": "architecture_extensions:minecraft/cherry_blossom_joist",
+			"count": 1
+		}
+	}
+]

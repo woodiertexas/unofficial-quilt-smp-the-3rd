@@ -1,0 +1,13 @@
+name = "Higher Nether Max Build Height"
+filename = "higher-nether-max-build-height-1.0.0+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7DZ6Gz4Y/versions/P28LDhbi/higher-nether-max-build-height-1.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "e7ded246819a311b50fb2e9fdcb344d641886477"
+
+[update]
+[update.modrinth]
+mod-id = "7DZ6Gz4Y"
+version = "P28LDhbi"
