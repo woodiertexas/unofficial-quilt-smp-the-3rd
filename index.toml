@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-proxy.pw.toml"
-hash = "515798e6cbe4410d55b01bababc9e1589eb8c7a0ff426d921870b1e7b5e933b4"
+hash = "7aeb4e21124c5188a217fdada3a00dbc6961b090f3722268897b559aef2648c2"
 metafile = true
 
 [[files]]
