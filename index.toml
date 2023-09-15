@@ -508,10 +508,6 @@ file = "options.txt"
 hash = "037f15577ca5bcf415b262fad47b09c1ed976ecabf490b32db859f7c8fbf6ea5"
 
 [[files]]
-file = "resources/QDResLoader-README.txt"
-hash = "25ff5818726d9d149ae930319e216f3b812629b4dd90b36efde35ed5bb6b6e04"
-
-[[files]]
 file = "resources/datapacks/arboria-saplings.pw.toml"
 hash = "8e259ff661cfeb43c5124694d7f8770c2f0c53927f19dd752f47bcd2cbd991e1"
 metafile = true
