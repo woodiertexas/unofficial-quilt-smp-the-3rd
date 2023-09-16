@@ -9,10 +9,18 @@ body:
       description: Provide as much details as possible.
     validations:
       required: true
+  - type: dropdown
+    attributes:
+      label: Is this mod on Modrinth?
+      description: If the mod is on Modrinth.
+      multiple: false
+      options:
+        - "Yes"
+        - "No"
   - type: textarea
     id: link
     attributes:
-      label: Link to the mod (Has to be on Modrinth)
+      label: Link to the mod
       description: Please provide a link the mod so we can check it out.
     validations:
       required: true
