@@ -1,0 +1,23 @@
+name: Mod Request
+description: Request a mod to be added
+title: "[Mod Request]: {replace with the mod name}"
+body:
+  - type: textarea
+    id: mod-description
+    attributes:
+      label: What does the mod do?.
+      description: Provide as much details as possible.
+    validations:
+      required: true
+  - type: textarea
+    id: link
+    attributes:
+      label: Link to the mod (Has to be on Modrinth)
+      description: Upload any images to help describe your feature request here. 
+    validations:
+      required: true
+  - type: textarea
+    id: image
+    attributes:
+      label: Images
+      description: Upload any images to help describe your mod request.
