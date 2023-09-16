@@ -221,6 +221,10 @@ file = "config/tablesaw/client.json5"
 hash = "20ce4529c3de6221249ce346455b86293c181b688d4e542ee9161c3514382021"
 
 [[files]]
+file = "config/tooltipscroll.json"
+hash = "8e8569be09029cc1c8d0348cec2381082ad0eb55933dd481f806bfd6470c1959"
+
+[[files]]
 file = "config/universal-graves/config.json"
 hash = "12d6f45250732ceab6191ed061a995ecb3b7852a1df5c930c0ecfdb6d1a71bb4"
 
@@ -509,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/tablesaw.pw.toml"
 hash = "3f93ba944882f89817aec28b50e6024b3edecebbd18ca231ecfc7746eb5ce22e"
+metafile = true
+
+[[files]]
+file = "mods/tooltip-scroll.pw.toml"
+hash = "3d55838fcc1155f1e062a203b4fbf15c5f2544e3a6b56ba8d8cddfaf01d62122"
 metafile = true
 
 [[files]]
