@@ -13,7 +13,7 @@ body:
     id: link
     attributes:
       label: Link to the mod (Has to be on Modrinth)
-      description: Upload any images to help describe your feature request here. 
+      description: Please provide a link the mod so we can check it out.
     validations:
       required: true
   - type: textarea
