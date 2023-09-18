@@ -269,14 +269,6 @@ file = "config/saplanting.json"
 hash = "3d299567a719f6256232a74e8c3e62a873a88c10deef623837b6c9cee3816ac9"
 
 [[files]]
-file = "config/snowrealmagic-client.yaml"
-hash = "34909564dc66fb400f716437577c349965144e46febfb432a388aed3b0fe81e9"
-
-[[files]]
-file = "config/snowrealmagic-common.yaml"
-hash = "b698d3b9e5636fc2c0879314e59c0c4d1ca509a25b21abdd439ff787fb3f44e5"
-
-[[files]]
 file = "config/sodium-mixins.properties"
 hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
@@ -600,11 +592,6 @@ metafile = true
 [[files]]
 file = "mods/saplanting.pw.toml"
 hash = "88f46c9c462a0a84f3d10a78389210d225ea9edd8f22049a9f0e7f6ad294692f"
-metafile = true
-
-[[files]]
-file = "mods/snow-real-magic.pw.toml"
-hash = "093e8ae19904662ab500b4a3aa4be01c2961c0cc6d4c345a684225f079886718"
 metafile = true
 
 [[files]]
