@@ -9,7 +9,6 @@
 	"switchy_inventories:experience" = "OPERATOR"
 	"switchy_inventories:inventories" = "OPERATOR"
 	"switchy_teleport:last_location" = "OPERATOR"
-	"switchy:hidearmor" = "ALLOWED"
 
 # Permission for editing module data
 # These values are read-only - changing them here has no effect.
@@ -17,6 +16,4 @@
 # Never: This module cannot be imported
 [moduleEditableReadOnly]
 	"switchy:fabric_tailor" = "ALWAYS_ALLOWED"
-	"switchy_proxy:proxies" = "ALWAYS_ALLOWED"
-	"switchy:styled_nicknames" = "ALWAYS_ALLOWED"
 

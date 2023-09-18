@@ -1,0 +1,5 @@
+#number of threads RRP should use for generating resources
+#Thu Sep 14 23:07:32 PDT 2023
+debug\ performance=false
+threads=5
+dump\ assets=false
