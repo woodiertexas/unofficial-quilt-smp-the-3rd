@@ -670,7 +670,7 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "a1fd826038c193e91c0ac45648b93721760c3e4f0fbddde169952e93bc348df7"
-metalfile = true
+metafile = true
 
 [[files]]
 file = "mods/tooltip-scroll.pw.toml"
