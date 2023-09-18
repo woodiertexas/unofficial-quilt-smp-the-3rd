@@ -1,0 +1,13 @@
+name = "The Full Story"
+filename = "the-full-story-1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wOyb8rrs/versions/nM4swi6T/the-full-story-1.0.0.zip"
+hash-format = "sha1"
+hash = "8aee6f015d23e3ccad790785a80d7eac2f9d0bee"
+
+[update]
+[update.modrinth]
+mod-id = "wOyb8rrs"
+version = "nM4swi6T"
