@@ -9,6 +9,10 @@ file = "config/fallingtree.json"
 hash = "22b4f66bd5cddf35ff40896b5af76c007d7daa0aa91c8187c859d11f6a2a3e79"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "42b8328d9c958aa8adca9a9fc62d0deb154e4a411ba55e984211f6e673ad2d58"
+
+[[files]]
 file = "config/nicerskies.json"
 hash = "b5f7e3528c7feecd4c8a4dfcf746bec86a0e3d02aa625654e928d4899f74a677"
 
@@ -123,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/goml-reserved.pw.toml"
 hash = "8d81962a8da8fc8e63e62f68ef86dde843df371635b4b0626b125c2227069ba9"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3cc35c86abdf13b0a159dca601ab82f3ca7b39de7c682b266598849987fe93af"
 metafile = true
 
 [[files]]
