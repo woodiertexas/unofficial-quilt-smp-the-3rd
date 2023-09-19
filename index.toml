@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabrication/features.ini"
+hash = "e33d4a34c2297efa4758fdb12620a8192addcf5250c0759ecda82339f923fdad"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "22b4f66bd5cddf35ff40896b5af76c007d7daa0aa91c8187c859d11f6a2a3e79"
+
+[[files]]
+file = "config/nicerskies.json"
+hash = "b5f7e3528c7feecd4c8a4dfcf746bec86a0e3d02aa625654e928d4899f74a677"
+
+[[files]]
+file = "config/saplanting.json"
+hash = "3d299567a719f6256232a74e8c3e62a873a88c10deef623837b6c9cee3816ac9"
+
+[[files]]
+file = "config/tooltipscroll.json"
+hash = "b1eee945b3ee47f6fe7a189efdfa8aa0e4c20d088f04abb4a03907e15efae31a"
+
+[[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "0e08322161ff858b898c5b3c8888bc7ea1a6b1deea9cc68cb3b104e35db0357a"
 metafile = true
@@ -48,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/companion.pw.toml"
 hash = "97cca2014971c73073f0ce99fcd0f27ad56620949c0c009b77aabcb5a6ea7aa9"
+metafile = true
+
+[[files]]
+file = "mods/creeper-spores.pw.toml"
+hash = "cc42b5f7578a8cc561e5a94a1885e12e32d7570f1bb452b62365405e94a8981b"
 metafile = true
 
 [[files]]
