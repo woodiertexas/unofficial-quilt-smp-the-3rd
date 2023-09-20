@@ -8,9 +8,9 @@
     "breakMode": "FALL_ITEM",
     "detectionMode": "ABOVE_CUT",
     "maxScanSize": 500,
-    "maxSize": 500,
+    "maxSize": 250,
     "maxSizeAction": "ABORT",
-    "breakOrder": "LOWEST_FIRST",
+    "breakOrder": "FURTHEST_FIRST",
     "minimumLeavesAroundRequired": 1,
     "includePersistentLeavesInRequiredCount": true,
     "treeBreaking": true,
@@ -37,10 +37,10 @@
     "allowedTags": []
   },
   "enchantment": {
-    "registerEnchant": false,
+    "registerEnchant": true,
     "registerSpecificEnchant": false,
     "hideEnchant": false,
-    "requireEnchantment": false
+    "requireEnchantment": true
   },
   "sneakMode": "SNEAK_DISABLE",
   "breakInCreative": false,
