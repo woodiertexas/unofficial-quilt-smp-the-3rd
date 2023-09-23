@@ -38,11 +38,6 @@ hash = "0e08322161ff858b898c5b3c8888bc7ea1a6b1deea9cc68cb3b104e35db0357a"
 metafile = true
 
 [[files]]
-file = "mods/autoslabs.pw.toml"
-hash = "8f9492f81669ba65c30fbe182b56566c065dc00e96afdd535a37f4581be36a81"
-metafile = true
-
-[[files]]
 file = "mods/banhammer.pw.toml"
 hash = "27b096c8d024c3c935c4c8f099da3516f0a111e61f2e36a995a79b3f9c08dd53"
 metafile = true
@@ -100,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "45119a046ee1e893bed9ae1143e69e677816689379dcbba12151cdcf5a53a3e4"
+metafile = true
+
+[[files]]
+file = "mods/enchantery.pw.toml"
+hash = "46bdc528dfa5e3cc06d05a851a600376cfaa7830c0f165e6818738e3801d111d"
 metafile = true
 
 [[files]]
