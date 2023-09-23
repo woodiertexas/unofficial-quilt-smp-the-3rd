@@ -138,6 +138,11 @@ hash = "f5e398242efadec260e29a2f8bf86a59dffd32ff9976abd7b9021589483ce153"
 metafile = true
 
 [[files]]
+file = "mods/goated.pw.toml"
+hash = "194ef54312ce3c7b33ff9580d2c1a9d2dcebd69511dd9c9e9c61e0220230f70d"
+metafile = true
+
+[[files]]
 file = "mods/goml-reserved.pw.toml"
 hash = "8d81962a8da8fc8e63e62f68ef86dde843df371635b4b0626b125c2227069ba9"
 metafile = true
@@ -315,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "7006e82e42e849008fa966d3289ddf183ab9b3177b8b3b92d7f284318829c9bf"
 metafile = true
 
 [[files]]
