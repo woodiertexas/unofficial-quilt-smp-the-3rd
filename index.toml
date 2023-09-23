@@ -34,11 +34,6 @@ hash = "0e08322161ff858b898c5b3c8888bc7ea1a6b1deea9cc68cb3b104e35db0357a"
 metafile = true
 
 [[files]]
-file = "mods/banhammer.pw.toml"
-hash = "27b096c8d024c3c935c4c8f099da3516f0a111e61f2e36a995a79b3f9c08dd53"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "f2a3a436d5498e539230aa1936ac1009e4b140eda402b654b4a160431e7f517a"
 metafile = true
@@ -244,11 +239,6 @@ hash = "c960e04a54b1a2a27309710081b044d85ec56d1f8402516e23c6ec1e0f166f2a"
 metafile = true
 
 [[files]]
-file = "mods/player-roles.pw.toml"
-hash = "3e6b62519a11e182b8913e1ab2f28b6dd22aead33cb63d8102b70e073cbf0ebd"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
@@ -299,21 +289,6 @@ hash = "36b28bb6cc09a13632ee75283071f4fbda59ee56815099f313fc9d81d6fe5d02"
 metafile = true
 
 [[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
-metafile = true
-
-[[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
-metafile = true
-
-[[files]]
-file = "mods/styledplayerlist.pw.toml"
-hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "7006e82e42e849008fa966d3289ddf183ab9b3177b8b3b92d7f284318829c9bf"
 metafile = true
@@ -321,11 +296,6 @@ metafile = true
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
 hash = "ee0867505705ee284a1a38dd9dbbd783668123ff49eca03195a651117d2572b2"
-metafile = true
-
-[[files]]
-file = "mods/switchy-proxy.pw.toml"
-hash = "7aeb4e21124c5188a217fdada3a00dbc6961b090f3722268897b559aef2648c2"
 metafile = true
 
 [[files]]
