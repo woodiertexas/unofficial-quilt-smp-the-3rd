@@ -11,9 +11,11 @@ body:
       description: >-
         Use this section to describe the issue you are experiencing in as much depth as possible. The description should
         explain what behavior you were expecting, and why you believe the issue to be a bug.
-
-        **Hint:** If you have any screenshots, videos, or other information that you feel is necessary to
-        explain the issue, you can attach them here.
+  - type: textarea
+    id: image
+    attributes:
+      label: Images
+      description: Upload any images or screenshots to help describe your bug.
   - type: textarea
     id: description-reproduction-steps
     attributes:
@@ -42,9 +44,6 @@ body:
       description: >-
         Attach the most recent crash report from the `crash-reports` folder. This is different from the log file above, and it contains
         important information about your hardware and software configuration.
-                
-        **Important:** If your game is not crashing as a result of your problem, then you need to obtain a crash report manually. This can be done
-        by loading the game to the main menu, and holding the F3+C keys together for approximately 10 seconds.
       placeholder: >-
         Upload the crash report file here...
     validations:
