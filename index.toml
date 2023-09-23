@@ -13,12 +13,16 @@ file = "config/immediatelyfast.json"
 hash = "42b8328d9c958aa8adca9a9fc62d0deb154e4a411ba55e984211f6e673ad2d58"
 
 [[files]]
-file = "config/nicerskies.json"
-hash = "b5f7e3528c7feecd4c8a4dfcf746bec86a0e3d02aa625654e928d4899f74a677"
+file = "config/regions_unexplored.conf"
+hash = "92a8c624dbaab0a037426de0ee83f8a6c1ca1e2ad104063b201af9e222da4fec"
 
 [[files]]
 file = "config/saplanting.json"
 hash = "3d299567a719f6256232a74e8c3e62a873a88c10deef623837b6c9cee3816ac9"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "0445b912fda5f4517efc1ae723ad13add5b9a9d0f15ec21beb9e806cb7b988b2"
 
 [[files]]
 file = "config/tooltipscroll.json"
@@ -27,11 +31,6 @@ hash = "b1eee945b3ee47f6fe7a189efdfa8aa0e4c20d088f04abb4a03907e15efae31a"
 [[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "0e08322161ff858b898c5b3c8888bc7ea1a6b1deea9cc68cb3b104e35db0357a"
-metafile = true
-
-[[files]]
-file = "mods/autoslabs.pw.toml"
-hash = "8f9492f81669ba65c30fbe182b56566c065dc00e96afdd535a37f4581be36a81"
 metafile = true
 
 [[files]]
@@ -80,6 +79,11 @@ hash = "cc42b5f7578a8cc561e5a94a1885e12e32d7570f1bb452b62365405e94a8981b"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "26567686c9226eb0c6fe19fa01047275563b72c5bf26ab1f55f8c3fa2e624df2"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
 metafile = true
@@ -87,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "45119a046ee1e893bed9ae1143e69e677816689379dcbba12151cdcf5a53a3e4"
+metafile = true
+
+[[files]]
+file = "mods/enchantery.pw.toml"
+hash = "46bdc528dfa5e3cc06d05a851a600376cfaa7830c0f165e6818738e3801d111d"
 metafile = true
 
 [[files]]
@@ -125,6 +134,11 @@ hash = "f5e398242efadec260e29a2f8bf86a59dffd32ff9976abd7b9021589483ce153"
 metafile = true
 
 [[files]]
+file = "mods/goated.pw.toml"
+hash = "194ef54312ce3c7b33ff9580d2c1a9d2dcebd69511dd9c9e9c61e0220230f70d"
+metafile = true
+
+[[files]]
 file = "mods/goml-reserved.pw.toml"
 hash = "8d81962a8da8fc8e63e62f68ef86dde843df371635b4b0626b125c2227069ba9"
 metafile = true
@@ -146,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
+hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
 metafile = true
 
 [[files]]
@@ -165,6 +179,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "2fbce6c9dc6eb7ec8cb0261e64113544b4eceab281b61dbf3f5dc7f138b10c6b"
+metafile = true
+
+[[files]]
 file = "mods/missing-wilds.pw.toml"
 hash = "8d8cd0f99d1c048a46d94512a5e1e79792491139553bd7fe1b6b0f884650672d"
 metafile = true
@@ -177,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "90f77207f5c29c26eecee422ec52ed124f024362068f70598fcd3fd1fc483b4c"
 metafile = true
 
 [[files]]
@@ -220,11 +244,6 @@ hash = "24362d3c0b327b2cc314380519df63e035f4386075672e4585b8f36b04d3380e"
 metafile = true
 
 [[files]]
-file = "mods/philips-ruins.pw.toml"
-hash = "b9f30b4a5c012e0fda0863b9373beec7357b31485666c53a7ae6bb2d04d32e4d"
-metafile = true
-
-[[files]]
 file = "mods/pineapple-mod.pw.toml"
 hash = "b3d1af2a441502ddae25911509785d1ea055b4786ff549f00208ce1de680b8df"
 metafile = true
@@ -237,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/player-roles.pw.toml"
 hash = "3e6b62519a11e182b8913e1ab2f28b6dd22aead33cb63d8102b70e073cbf0ebd"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
@@ -260,13 +284,18 @@ hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "132b94a20e3b95496a84bca92f83215c1ae9dcfa2cdc48262330ef57587c3e65"
+metafile = true
+
+[[files]]
 file = "mods/saplanting.pw.toml"
 hash = "88f46c9c462a0a84f3d10a78389210d225ea9edd8f22049a9f0e7f6ad294692f"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
 metafile = true
 
 [[files]]
@@ -292,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "7006e82e42e849008fa966d3289ddf183ab9b3177b8b3b92d7f284318829c9bf"
 metafile = true
 
 [[files]]
