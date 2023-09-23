@@ -219,11 +219,6 @@ hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
 
 [[files]]
-file = "mods/natures-spirit.pw.toml"
-hash = "aa9f4db6d197a30f4ab5fbb249d2492748ebc23dd9472b7a14fc60684da97748"
-metafile = true
-
-[[files]]
 file = "mods/nicer-skies.pw.toml"
 hash = "ddbcdf60f634287b6df241a873fc07b4ce56facfb358a0a74cb1df9acff97725"
 metafile = true
