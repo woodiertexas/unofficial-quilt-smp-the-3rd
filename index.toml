@@ -13,10 +13,6 @@ file = "config/immediatelyfast.json"
 hash = "42b8328d9c958aa8adca9a9fc62d0deb154e4a411ba55e984211f6e673ad2d58"
 
 [[files]]
-file = "config/nicerskies.json"
-hash = "b5f7e3528c7feecd4c8a4dfcf746bec86a0e3d02aa625654e928d4899f74a677"
-
-[[files]]
 file = "config/regions_unexplored.conf"
 hash = "92a8c624dbaab0a037426de0ee83f8a6c1ca1e2ad104063b201af9e222da4fec"
 
