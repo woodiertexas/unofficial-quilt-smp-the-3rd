@@ -17,8 +17,16 @@ file = "config/nicerskies.json"
 hash = "b5f7e3528c7feecd4c8a4dfcf746bec86a0e3d02aa625654e928d4899f74a677"
 
 [[files]]
+file = "config/regions_unexplored.conf"
+hash = "6ae3ffe38473d56a4e3f1341ead226b6301be69778af47b59989aa35e9fe1d10"
+
+[[files]]
 file = "config/saplanting.json"
 hash = "3d299567a719f6256232a74e8c3e62a873a88c10deef623837b6c9cee3816ac9"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "0445b912fda5f4517efc1ae723ad13add5b9a9d0f15ec21beb9e806cb7b988b2"
 
 [[files]]
 file = "config/tooltipscroll.json"
