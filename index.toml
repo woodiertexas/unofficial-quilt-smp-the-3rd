@@ -283,6 +283,11 @@ hash = "3e6b62519a11e182b8913e1ab2f28b6dd22aead33cb63d8102b70e073cbf0ebd"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+metafile = true
+
+[[files]]
 file = "mods/profundis.pw.toml"
 hash = "11326803a906eacf44ec827af5b13d5cbe9b97582dc087a1a5090edc612f5374"
 metafile = true
