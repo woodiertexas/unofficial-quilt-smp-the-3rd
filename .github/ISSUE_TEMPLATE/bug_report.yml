@@ -1,0 +1,52 @@
+name: Bug Report
+description: "For reporting either bugs or crashes"
+title: "[Bug]: {replace with description}"
+labels:
+  - S-needs-triage
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: >-
+        Use this section to describe the issue you are experiencing in as much depth as possible. The description should
+        explain what behavior you were expecting, and why you believe the issue to be a bug.
+  - type: textarea
+    id: image
+    attributes:
+      label: Images
+      description: Upload any images or screenshots to help describe your bug.
+  - type: textarea
+    id: description-reproduction-steps
+    attributes:
+      label: Reproduction Steps
+      description: >-
+        Provide as much information as possible on how to reproduce this bug. Make sure your instructions are as clear and
+        concise as possible, because other people will need to be able to follow your guide in order to re-create the issue.
+        
+        **Hint:**  A common way to fill this section out is to write a step-by-step guide.
+    validations:
+      required: true
+  - type: textarea
+    id: log-file
+    attributes:
+      label: Log File
+      description: >-
+        Please upload your logs to mclo.gs and paste the link here. You can find your client (`logs/latest.log`)
+      placeholder: >-
+        Upload the log file here...
+    validations:
+      required: true
+  - type: textarea
+    id: crash-report-file
+    attributes:
+      label: Crash Report
+      description: >-
+        Please upload your crash reports to mclo.gs and past the link here. You can find your crash reports in the `crash-reports` folder
+        
+        This is different from the log file above, and it contains
+        important information about your hardware and software configuration.
+      placeholder: >-
+        Upload the crash report file here...
+    validations:
+      required: true

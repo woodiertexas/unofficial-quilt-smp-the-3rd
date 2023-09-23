@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "037f15577ca5bcf415b262fad47b09c1ed976ecabf490b32db859f7c8fbf6ea5"
+hash = "e62f33478ead8f9b39dfaa776b1b8145df4a575e998b9b35e001d9498a5e5244"
 
 [[files]]
 file = "resources/datapacks/arboria-saplings.pw.toml"
