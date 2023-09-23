@@ -38,11 +38,6 @@ hash = "0e08322161ff858b898c5b3c8888bc7ea1a6b1deea9cc68cb3b104e35db0357a"
 metafile = true
 
 [[files]]
-file = "mods/azurelib-armor.pw.toml"
-hash = "9e77ce91a88d6d603b80fd22eb5215ca59af752d5c6b6aa4efe1fb927a75dd12"
-metafile = true
-
-[[files]]
 file = "mods/banhammer.pw.toml"
 hash = "27b096c8d024c3c935c4c8f099da3516f0a111e61f2e36a995a79b3f9c08dd53"
 metafile = true
@@ -135,16 +130,6 @@ metafile = true
 [[files]]
 file = "mods/foxbox.pw.toml"
 hash = "43bf820b9d05944c55390061a0c75486824ab15ab75c2ce88e7a853e6bc7b8cd"
-metafile = true
-
-[[files]]
-file = "mods/gazebos.pw.toml"
-hash = "d140878fc03575b31e4892f795239fd5d25775fab7eaccfcd3e41a6d603f239c"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "ce46f117a69cf45250fe90a6a9d964c3fbae3a80abc3a21ab94f68d453dbb3bf"
 metafile = true
 
 [[files]]
@@ -258,11 +243,6 @@ hash = "23583083d03c8effa3dca4c17c7da2fcf57d653292b02898afe8d7029be6b0d7"
 metafile = true
 
 [[files]]
-file = "mods/paladins-and-priests.pw.toml"
-hash = "ad372165ff3dbc5698c89946984311ed2dd45506af2e919c9b9859d3f7f81b05"
-metafile = true
-
-[[files]]
 file = "mods/patched.pw.toml"
 hash = "24362d3c0b327b2cc314380519df63e035f4386075672e4585b8f36b04d3380e"
 metafile = true
@@ -313,11 +293,6 @@ hash = "132b94a20e3b95496a84bca92f83215c1ae9dcfa2cdc48262330ef57587c3e65"
 metafile = true
 
 [[files]]
-file = "mods/runes.pw.toml"
-hash = "64dd26764b474b4f2831197a2873ea86156f0c68518cee18eb78dcb962273434"
-metafile = true
-
-[[files]]
 file = "mods/saplanting.pw.toml"
 hash = "88f46c9c462a0a84f3d10a78389210d225ea9edd8f22049a9f0e7f6ad294692f"
 metafile = true
@@ -325,16 +300,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
-metafile = true
-
-[[files]]
-file = "mods/spell-engine.pw.toml"
-hash = "de6ad361fd955c740bbcf22bcf0acf2f91265bf838fc2b5d5530859b2aaa2156"
-metafile = true
-
-[[files]]
-file = "mods/spell-power.pw.toml"
-hash = "b6fa7f4f01759629a5800d099c0fc8e2ca9e06f3a2faf3d09f90cd2364d40a71"
 metafile = true
 
 [[files]]
@@ -425,11 +390,6 @@ metafile = true
 [[files]]
 file = "mods/volume-fix.pw.toml"
 hash = "1b79367022b6b1c458fa1be25ba2c9d379426845a43aa581957a5d9d3381a83e"
-metafile = true
-
-[[files]]
-file = "mods/wizards.pw.toml"
-hash = "42b7a26826ae504ae608952da6700bb3e8a87490f23e177ba99c1963ce86fcda"
 metafile = true
 
 [[files]]
