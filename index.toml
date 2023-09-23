@@ -18,7 +18,7 @@ hash = "b5f7e3528c7feecd4c8a4dfcf746bec86a0e3d02aa625654e928d4899f74a677"
 
 [[files]]
 file = "config/regions_unexplored.conf"
-hash = "6ae3ffe38473d56a4e3f1341ead226b6301be69778af47b59989aa35e9fe1d10"
+hash = "92a8c624dbaab0a037426de0ee83f8a6c1ca1e2ad104063b201af9e222da4fec"
 
 [[files]]
 file = "config/saplanting.json"
@@ -178,6 +178,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "2fbce6c9dc6eb7ec8cb0261e64113544b4eceab281b61dbf3f5dc7f138b10c6b"
+metafile = true
+
+[[files]]
 file = "mods/missing-wilds.pw.toml"
 hash = "8d8cd0f99d1c048a46d94512a5e1e79792491139553bd7fe1b6b0f884650672d"
 metafile = true
@@ -190,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "90f77207f5c29c26eecee422ec52ed124f024362068f70598fcd3fd1fc483b4c"
 metafile = true
 
 [[files]]
