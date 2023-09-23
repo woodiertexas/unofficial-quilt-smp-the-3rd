@@ -80,6 +80,11 @@ hash = "cc42b5f7578a8cc561e5a94a1885e12e32d7570f1bb452b62365405e94a8981b"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "26567686c9226eb0c6fe19fa01047275563b72c5bf26ab1f55f8c3fa2e624df2"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
 metafile = true
@@ -220,11 +225,6 @@ hash = "24362d3c0b327b2cc314380519df63e035f4386075672e4585b8f36b04d3380e"
 metafile = true
 
 [[files]]
-file = "mods/philips-ruins.pw.toml"
-hash = "b9f30b4a5c012e0fda0863b9373beec7357b31485666c53a7ae6bb2d04d32e4d"
-metafile = true
-
-[[files]]
 file = "mods/pineapple-mod.pw.toml"
 hash = "b3d1af2a441502ddae25911509785d1ea055b4786ff549f00208ce1de680b8df"
 metafile = true
@@ -257,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "132b94a20e3b95496a84bca92f83215c1ae9dcfa2cdc48262330ef57587c3e65"
 metafile = true
 
 [[files]]
