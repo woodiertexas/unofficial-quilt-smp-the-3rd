@@ -1,5 +1,6 @@
 name: Bug Report
 description: "For reporting either bugs or crashes"
+title: "[Bug]: {replace with description}"
 labels:
   - S-needs-triage
 body:
