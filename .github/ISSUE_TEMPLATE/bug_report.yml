@@ -32,7 +32,7 @@ body:
     attributes:
       label: Log File
       description: >-
-        Attach the most recent log file from your client (`logs/latest.log`). This file should always be present.
+        Please upload your logs to mclo.gs and paste the link here. You can find your client (`logs/latest.log`)
       placeholder: >-
         Upload the log file here...
     validations:
@@ -42,7 +42,9 @@ body:
     attributes:
       label: Crash Report
       description: >-
-        Attach the most recent crash report from the `crash-reports` folder. This is different from the log file above, and it contains
+        Please upload your crash reports to mclo.gs and past the link here. You can find your crash reports in the `crash-reports` folder
+        
+        This is different from the log file above, and it contains
         important information about your hardware and software configuration.
       placeholder: >-
         Upload the crash report file here...
