@@ -1,0 +1,50 @@
+name: Bug Report
+description: "For reporting either bugs or crashes"
+labels:
+  - S-needs-triage
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: >-
+        Use this section to describe the issue you are experiencing in as much depth as possible. The description should
+        explain what behavior you were expecting, and why you believe the issue to be a bug.
+
+        **Hint:** If you have any screenshots, videos, or other information that you feel is necessary to
+        explain the issue, you can attach them here.
+  - type: textarea
+    id: description-reproduction-steps
+    attributes:
+      label: Reproduction Steps
+      description: >-
+        Provide as much information as possible on how to reproduce this bug. Make sure your instructions are as clear and
+        concise as possible, because other people will need to be able to follow your guide in order to re-create the issue.
+        
+        **Hint:**  A common way to fill this section out is to write a step-by-step guide.
+    validations:
+      required: true
+  - type: textarea
+    id: log-file
+    attributes:
+      label: Log File
+      description: >-
+        Attach the most recent log file from your client (`logs/latest.log`). This file should always be present.
+      placeholder: >-
+        Upload the log file here...
+    validations:
+      required: true
+  - type: textarea
+    id: crash-report-file
+    attributes:
+      label: Crash Report
+      description: >-
+        Attach the most recent crash report from the `crash-reports` folder. This is different from the log file above, and it contains
+        important information about your hardware and software configuration.
+                
+        **Important:** If your game is not crashing as a result of your problem, then you need to obtain a crash report manually. This can be done
+        by loading the game to the main menu, and holding the F3+C keys together for approximately 10 seconds.
+      placeholder: >-
+        Upload the crash report file here...
+    validations:
+      required: true
