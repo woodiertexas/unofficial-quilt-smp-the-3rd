@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "e33d4a34c2297efa4758fdb12620a8192addcf5250c0759ecda82339f923fdad"
+hash = "c1f26d7a4938b8e60004b16799aa8da389830e3f96df7f5f9f1abbf3eee7d581"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -216,11 +216,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
-metafile = true
-
-[[files]]
-file = "mods/nicer-skies.pw.toml"
-hash = "ddbcdf60f634287b6df241a873fc07b4ce56facfb358a0a74cb1df9acff97725"
 metafile = true
 
 [[files]]
