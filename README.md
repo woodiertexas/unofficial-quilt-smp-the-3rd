@@ -8,7 +8,7 @@ This repo contains the packwiz files for the Unofficial Quilt SMP 3 modpack.
 3. Find where you downloaded the modpack and click open.
 4. Click OK and you should have the modpack pop up onto the instance list.
 
-You can find the download link for the modpack [here](https://cdn.discordapp.com/attachments/1148057850204127337/1155263695161671740/Unoffical-Quilt-SMP.zip)
+You can find the download link for the modpack [here](https://cdn.discordapp.com/attachments/1148057850204127337/1155437477419548713/Unoffical-Quilt-SMP.zip)
 
 ## Optional Mods
 
@@ -18,4 +18,4 @@ Here you can find the optional mods that you can add to the modpack for a better
 
 ## Discussing the modpack
 
-You can discuss the modpack on the [Quilt Discord](https://discord.quiltmc.org/) in the Minecraft Server thread found [here](https://discord.com/channels/817576132726620200/1148057850204127337).
+You can discuss the modpack on the [Quilt Discord](https://discord.quiltmc.org/) in the Unofficial Quilt SMP thread found [here](https://discord.com/channels/817576132726620200/1148057850204127337).
