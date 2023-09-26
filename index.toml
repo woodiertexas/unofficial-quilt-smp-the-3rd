@@ -13,6 +13,10 @@ file = "config/immediatelyfast.json"
 hash = "42b8328d9c958aa8adca9a9fc62d0deb154e4a411ba55e984211f6e673ad2d58"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "99e37f421f65527d18d572cdefbfaddc05073a4aacc9d0efe4adcbb2b619a661"
+
+[[files]]
 file = "config/regions_unexplored.conf"
 hash = "92a8c624dbaab0a037426de0ee83f8a6c1ca1e2ad104063b201af9e222da4fec"
 
@@ -79,6 +83,16 @@ hash = "cc42b5f7578a8cc561e5a94a1885e12e32d7570f1bb452b62365405e94a8981b"
 metafile = true
 
 [[files]]
+file = "mods/ctrl-q.pw.toml"
+hash = "ad2462959438c5181844602ff8489ff7397d87bf7dd1f42b6f9838cd66fc7bc9"
+metafile = true
+
+[[files]]
+file = "mods/dark-graph.pw.toml"
+hash = "81a898a3c243519b8676f2b254d66b814d7598ff5e2916972ece6ce34d3c57c2"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "26567686c9226eb0c6fe19fa01047275563b72c5bf26ab1f55f8c3fa2e624df2"
 metafile = true
@@ -91,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "45119a046ee1e893bed9ae1143e69e677816689379dcbba12151cdcf5a53a3e4"
+metafile = true
+
+[[files]]
+file = "mods/emuno.pw.toml"
+hash = "3fe8ab29c47d04dd0a80b3886534bfa56bfcab9a490dbfdc96c4516db8c477b3"
 metafile = true
 
 [[files]]
@@ -126,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/foxbox.pw.toml"
 hash = "43bf820b9d05944c55390061a0c75486824ab15ab75c2ce88e7a853e6bc7b8cd"
+metafile = true
+
+[[files]]
+file = "mods/gamemenuremovegfarb.pw.toml"
+hash = "769e07f03e65c6adb8708f4da6c476365b24aad10f943514d6bbd8b0f57ff327"
 metafile = true
 
 [[files]]
@@ -279,13 +303,28 @@ hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "132b94a20e3b95496a84bca92f83215c1ae9dcfa2cdc48262330ef57587c3e65"
 metafile = true
 
 [[files]]
+file = "mods/rmscore.pw.toml"
+hash = "498244e75e8f61e84db299e97d4c7de7b4419eff3e42236f755181a4bbe5342e"
+metafile = true
+
+[[files]]
 file = "mods/saplanting.pw.toml"
 hash = "88f46c9c462a0a84f3d10a78389210d225ea9edd8f22049a9f0e7f6ad294692f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
 
 [[files]]
