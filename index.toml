@@ -238,11 +238,6 @@ hash = "62025c288f5db8cfae27266bd3771a99c03c5fc779f41ee55cf14183c1ed5db2"
 metafile = true
 
 [[files]]
-file = "mods/myloot.pw.toml"
-hash = "ef80d969a80ba73f12b696c5cefe753891760b3b1f20bb2d2df24e396f8f6f0d"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
@@ -333,8 +328,8 @@ hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
 metafile = true
 
 [[files]]
-file = "mods/spoornpacks.pw.toml"
-hash = "ea9bec0e61015a153a13b2f9000651c01df3270328041d2dc3a99153b594d32b"
+file = "mods/sparsestructures.pw.toml"
+hash = "c8cc6321ebc7a1f999f9ffbc41e6e14d350c28d160313e72f0baa56bead97679"
 metafile = true
 
 [[files]]
