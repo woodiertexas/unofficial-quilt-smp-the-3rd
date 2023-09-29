@@ -1,13 +1,13 @@
 name = "Arboria: Biome Enhancement"
-filename = "arboria_v1.1.1.zip"
+filename = "arboria_v1.1.2.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IuVnevHX/versions/Wlpfq58s/arboria_v1.1.1.zip"
+url = "https://cdn.modrinth.com/data/IuVnevHX/versions/LnBGB524/arboria_v1.1.2.zip"
 hash-format = "sha1"
-hash = "b8ff6ecf84e5cb16bd7b7740e302968cffff8d37"
+hash = "ed65afcca64e2982984b04dfba215f7ce7cbfd57"
 
 [update]
 [update.modrinth]
 mod-id = "IuVnevHX"
-version = "Wlpfq58s"
+version = "LnBGB524"

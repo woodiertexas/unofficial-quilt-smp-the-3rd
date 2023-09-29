@@ -1,13 +1,13 @@
 name = "Enchantery"
-filename = "enchantery-1.20.1-0.0.8-fabric.jar"
+filename = "enchantery-1.20.1-0.0.9-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IAmBzGUb/versions/WbnoUIfZ/enchantery-1.20.1-0.0.8-fabric.jar"
+url = "https://cdn.modrinth.com/data/IAmBzGUb/versions/vM5n9ajI/enchantery-1.20.1-0.0.9-fabric.jar"
 hash-format = "sha1"
-hash = "e39c0804138b1cf0dd17ab80e49f69e53e72e50b"
+hash = "58dc2f427369daaa3a456a04965458ac7a39e1bc"
 
 [update]
 [update.modrinth]
 mod-id = "IAmBzGUb"
-version = "WbnoUIfZ"
+version = "vM5n9ajI"

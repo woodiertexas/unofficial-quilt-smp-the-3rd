@@ -17,10 +17,6 @@ file = "config/modmenu.json"
 hash = "99e37f421f65527d18d572cdefbfaddc05073a4aacc9d0efe4adcbb2b619a661"
 
 [[files]]
-file = "config/regions_unexplored.conf"
-hash = "92a8c624dbaab0a037426de0ee83f8a6c1ca1e2ad104063b201af9e222da4fec"
-
-[[files]]
 file = "config/saplanting.json"
 hash = "3d299567a719f6256232a74e8c3e62a873a88c10deef623837b6c9cee3816ac9"
 
@@ -114,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantery.pw.toml"
-hash = "46bdc528dfa5e3cc06d05a851a600376cfaa7830c0f165e6818738e3801d111d"
+hash = "494bc1297b8735c2a3f305661b5ea96fab255bc7b807cc8ddb336f0cc8644a4d"
 metafile = true
 
 [[files]]
@@ -169,22 +165,22 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3cc35c86abdf13b0a159dca601ab82f3ca7b39de7c682b266598849987fe93af"
+hash = "ca885ba80a295fe9729c9ef27e366911d8ec2467bcced404f08593ead37176b0"
 metafile = true
 
 [[files]]
 file = "mods/immersivethunder.pw.toml"
-hash = "f8955ae1963bb44aac6c877babc2520efcca69a691143a33e6ffd6efe1c67313"
+hash = "5a5a50d3438315bce21ed2271c9590571c79d38e47788d579307b8518752bd08"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "678d1c7827d30fbe8c225e7f2b8ddc29f1dd69cced29335ee5a670477a0728a2"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
 metafile = true
 
 [[files]]
@@ -194,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "409d820a08baf91ace8443e3abb9ef8914083b053e1e24cb989419aaef8b3f5d"
+hash = "cd9e975f57957445016f58556136ed293ad29919ac5735aaa587d5c5c251aac0"
 metafile = true
 
 [[files]]
@@ -219,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e5f92dc07f3f57d187c366dc98c1d16d75df5cf47775b1c2d8589f5a01900536"
+hash = "e2979be57609f1f74666d2f69c003836b8551941e761a79707fbf3f9562dc603"
 metafile = true
 
 [[files]]
@@ -234,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "62025c288f5db8cfae27266bd3771a99c03c5fc779f41ee55cf14183c1ed5db2"
+hash = "4150435ec9e3a6e92d61d972df268771d13a7662f7f585326268b7b411f388e4"
 metafile = true
 
 [[files]]
@@ -294,17 +290,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
+hash = "6c7c8c7f424804a1efcfa2a6828d365c3a68eb38016e31f48967f45172de47ee"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
-metafile = true
-
-[[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "132b94a20e3b95496a84bca92f83215c1ae9dcfa2cdc48262330ef57587c3e65"
 metafile = true
 
 [[files]]
@@ -324,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
@@ -354,12 +345,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7006e82e42e849008fa966d3289ddf183ab9b3177b8b3b92d7f284318829c9bf"
+hash = "c34db37b2202fa21fb5d47e025f63922f3f80c1a1a59b81d21c449a5533f45eb"
 metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "ee0867505705ee284a1a38dd9dbbd783668123ff49eca03195a651117d2572b2"
+hash = "b7b3080acea13424a7f6301ec97b61eb6fb8b541abc0b43864da3768059e6e86"
 metafile = true
 
 [[files]]
@@ -374,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "b7e38d6d1340752e2d3611cb66f0787d92828d8e35c4e320d4886fad24438fe7"
+hash = "27f5efe6758f32ccdac8f19bab0708f91125c9ec3f55d2092ab79ee1f2d90513"
 metafile = true
 
 [[files]]
@@ -390,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "a1fd826038c193e91c0ac45648b93721760c3e4f0fbddde169952e93bc348df7"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+hash = "1c43a497cc911474b50a0706b05f1e6040179f1443a59112f2c56157f12c7165"
 metafile = true
 
 [[files]]
@@ -433,17 +429,17 @@ hash = "e62f33478ead8f9b39dfaa776b1b8145df4a575e998b9b35e001d9498a5e5244"
 
 [[files]]
 file = "resources/datapacks/arboria-saplings.pw.toml"
-hash = "8e259ff661cfeb43c5124694d7f8770c2f0c53927f19dd752f47bcd2cbd991e1"
+hash = "26e4c34d8e7813ce0b77a2b4f1ba9b382b2449bbd5c3f38ebe799f7b88524dae"
 metafile = true
 
 [[files]]
 file = "resources/datapacks/arboria.pw.toml"
-hash = "bad021c5e25eff83611d4c8764d7009d41a1cf90eb0b12008d5b5b3ba115563e"
+hash = "0f154f33b1eca6c514983dcfe415afc0fa01e6fe0cda616f63bc1bf983c8e885"
 metafile = true
 
 [[files]]
 file = "resources/datapacks/continents.pw.toml"
-hash = "d2237aec9a96508d717b505bc6d99f141418d7116ecab7e69e7543fba708a200"
+hash = "b04efd9e269edaf37c32a93b76e2523d481f59534d681d8c8c7091103e3aea20"
 metafile = true
 
 [[files]]
@@ -489,7 +485,7 @@ hash = "f53b70b0a545c386949bbb935f673eb44ee23619af1186df57e1f342994f983a"
 
 [[files]]
 file = "resources/datapacks/nullscape.pw.toml"
-hash = "be14d9e96b119117afce2c77700bcae11d21cdc276471b54bbf3cf89496e2060"
+hash = "9e09f07e73ff32e66e284584c72aeda18b81c4c3706e1be38352dbf072126102"
 metafile = true
 
 [[files]]
