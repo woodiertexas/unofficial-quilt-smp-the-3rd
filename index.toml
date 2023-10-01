@@ -34,6 +34,11 @@ hash = "0e08322161ff858b898c5b3c8888bc7ea1a6b1deea9cc68cb3b104e35db0357a"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "6d52f489c0129b5246a8382405fbdd6511b78b66f51d6a16a735dae33278babd"
+metafile = true
+
+[[files]]
 file = "mods/banhammer.pw.toml"
 hash = "27b096c8d024c3c935c4c8f099da3516f0a111e61f2e36a995a79b3f9c08dd53"
 metafile = true
@@ -296,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c89835f045a03832c287470cd1729a70f1265e3eac7b3cdaf603c3c1fd677689"
 metafile = true
 
 [[files]]
