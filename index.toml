@@ -14,7 +14,7 @@ hash = "42b8328d9c958aa8adca9a9fc62d0deb154e4a411ba55e984211f6e673ad2d58"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "99e37f421f65527d18d572cdefbfaddc05073a4aacc9d0efe4adcbb2b619a661"
+hash = "e61694d0fad31bbdb05b48559dee527159e0c95700229b3e95a0790e11edae36"
 
 [[files]]
 file = "config/saplanting.json"
@@ -27,6 +27,11 @@ hash = "0445b912fda5f4517efc1ae723ad13add5b9a9d0f15ec21beb9e806cb7b988b2"
 [[files]]
 file = "config/tooltipscroll.json"
 hash = "b1eee945b3ee47f6fe7a189efdfa8aa0e4c20d088f04abb4a03907e15efae31a"
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "149062fec33cc9b361650d6aacbbb668381007e14ec6b1ef98fb7e4fe9c51685"
+metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
@@ -124,6 +129,11 @@ hash = "96933d7137dd25472c2057e093de87cf7f7d3c12aab36f17ae8b8a3d65c6623d"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "38ed72cfb9405c7b40079e1cc6d335806a3fc0c7f98aee04a44adacdb5452ece"
+metafile = true
+
+[[files]]
 file = "mods/fabrication.pw.toml"
 hash = "8c3a4d0dacc0dc1194bc151d790f081d3178f3761c390bd9cc2ef33c16ef9e44"
 metafile = true
@@ -169,6 +179,11 @@ hash = "06a155cdcd720584f9a01544e6ddd9b20960532359e72183f5cf3565b46f23fd"
 metafile = true
 
 [[files]]
+file = "mods/groovyduvet.pw.toml"
+hash = "412139d37c023a7e50b7ab311be15a592f9173b91d456677cf144a8a48357d47"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ca885ba80a295fe9729c9ef27e366911d8ec2467bcced404f08593ead37176b0"
 metafile = true
@@ -186,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
+metafile = true
+
+[[files]]
+file = "mods/jsonwrangler.pw.toml"
+hash = "b6a832c7f5cc8b6e91247f5becd90593a401adf89025e9dc492876a203db71b9"
 metafile = true
 
 [[files]]
@@ -214,6 +234,11 @@ hash = "2fbce6c9dc6eb7ec8cb0261e64113544b4eceab281b61dbf3f5dc7f138b10c6b"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+metafile = true
+
+[[files]]
 file = "mods/missing-wilds.pw.toml"
 hash = "8d8cd0f99d1c048a46d94512a5e1e79792491139553bd7fe1b6b0f884650672d"
 metafile = true
@@ -236,6 +261,16 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "4150435ec9e3a6e92d61d972df268771d13a7662f7f585326268b7b411f388e4"
+metafile = true
+
+[[files]]
+file = "mods/mysterypotions.pw.toml"
+hash = "25143cd318957ffb058cb3c9e3cbb0f6497e7a7bbe6dc575b8d5dfa56097e511"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
 metafile = true
 
 [[files]]
@@ -396,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/terrestria.pw.toml"
 hash = "1c43a497cc911474b50a0706b05f1e6040179f1443a59112f2c56157f12c7165"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "4fbf535c32ba6abd4b11ae1421573286b46f2168f40dc5945bde35f9ce0244e9"
 metafile = true
 
 [[files]]
