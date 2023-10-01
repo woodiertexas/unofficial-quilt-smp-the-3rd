@@ -3,6 +3,7 @@
 This repo contains the packwiz files for the Unofficial Quilt SMP 3 modpack.
 
 ## How to download the packwiz / unsup pack on the Prism Launcher?
+
 1. Open Prism Launcher and click `Add Instance`.
 2. Go to Import tab and click `Browse`.
 3. Find where you downloaded the modpack and click open.
