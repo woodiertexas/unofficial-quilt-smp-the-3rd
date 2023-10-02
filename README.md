@@ -15,8 +15,8 @@ You can find the download link for the modpack [here](https://cdn.discordapp.com
 
 Here you can find the optional mods that you can add to the modpack for a better experience.
 
-[Amecs](https://modrinth.com/mod/amecs)
-[Nicer Skies](https://modrinth.com/mod/nicer-skies)
+- [Amecs](https://modrinth.com/mod/amecs)
+- [Nicer Skies](https://modrinth.com/mod/nicer-skies)
 
 ## Discussing the modpack
 
