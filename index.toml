@@ -294,6 +294,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/owolib-annoyance-remover.pw.toml"
+hash = "c7ffebd5c78433297e8898e11af836d7ea5557bc8ecd6882c1ab4597cab56912"
+metafile = true
+
+[[files]]
 file = "mods/patched.pw.toml"
 hash = "24362d3c0b327b2cc314380519df63e035f4386075672e4585b8f36b04d3380e"
 metafile = true
