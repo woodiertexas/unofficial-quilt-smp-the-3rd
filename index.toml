@@ -289,6 +289,11 @@ hash = "23583083d03c8effa3dca4c17c7da2fcf57d653292b02898afe8d7029be6b0d7"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
 file = "mods/patched.pw.toml"
 hash = "24362d3c0b327b2cc314380519df63e035f4386075672e4585b8f36b04d3380e"
 metafile = true
