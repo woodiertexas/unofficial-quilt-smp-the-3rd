@@ -298,8 +298,8 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
-file = "mods/owolib-annoyance-remover.pw.toml"
-hash = "c7ffebd5c78433297e8898e11af836d7ea5557bc8ecd6882c1ab4597cab56912"
+file = "mods/owolib-patches.pw.toml"
+hash = "bae69b8e2bc148b18a0edfd7cc43909f2f5e4a3ad3102644c75c6f090c167ec8"
 metafile = true
 
 [[files]]
@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "0201867974d7fffb3928b82e91e0ea05bab1b860793d0cacff3e5ab726ab8df5"
+hash = "01b6a0a2265504e1738552b92f0dee74f47d0b599dcd0a8d5ce09ae45b499c00"
 metafile = true
 
 [[files]]

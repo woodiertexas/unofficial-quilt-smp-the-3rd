@@ -1,0 +1,13 @@
+name = "owolib Patches"
+filename = "owolib_patches-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OPsjWOWh/versions/gc6eIKgL/owolib_patches-1.2.0.jar"
+hash-format = "sha1"
+hash = "1b2e7bfcb8cff9ddca404745779e183a15a77606"
+
+[update]
+[update.modrinth]
+mod-id = "OPsjWOWh"
+version = "gc6eIKgL"
