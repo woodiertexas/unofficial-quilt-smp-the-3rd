@@ -17,6 +17,10 @@ file = "config/modmenu.json"
 hash = "e61694d0fad31bbdb05b48559dee527159e0c95700229b3e95a0790e11edae36"
 
 [[files]]
+file = "config/mythicmetals-config.json5"
+hash = "7872d403aa46d609e4a22d9a5533e186997694e6314bf8c80b813450f4998041"
+
+[[files]]
 file = "config/saplanting.json"
 hash = "3d299567a719f6256232a74e8c3e62a873a88c10deef623837b6c9cee3816ac9"
 
