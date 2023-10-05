@@ -9,7 +9,7 @@ This repo contains the packwiz files for the Unofficial Quilt SMP 3 modpack.
 3. Find where you downloaded the modpack and click open.
 4. Click OK and you should have the modpack pop up onto the instance list.
 
-You can find modpack releases [here]([https://cdn.discordapp.com/attachments/1148057850204127337/1155437477419548713/Unoffical-Quilt-SMP.zip](https://github.com/woodiertexas/unofficial-quilt-smp-the-3rd/releases))
+You can find modpack releases [here](https://github.com/woodiertexas/unofficial-quilt-smp-the-3rd/releases)
 
 ## Optional Mods
 
