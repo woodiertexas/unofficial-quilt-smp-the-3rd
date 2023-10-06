@@ -233,11 +233,6 @@ hash = "1a1a71979f82e0b35e48c2d54803ea732341dc45a9494123154c7eac55075ff3"
 metafile = true
 
 [[files]]
-file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "2fbce6c9dc6eb7ec8cb0261e64113544b4eceab281b61dbf3f5dc7f138b10c6b"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
 metafile = true
