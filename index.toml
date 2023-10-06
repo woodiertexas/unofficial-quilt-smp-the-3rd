@@ -248,6 +248,11 @@ hash = "90f77207f5c29c26eecee422ec52ed124f024362068f70598fcd3fd1fc483b4c"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "072f6f8811b34e73106a9c81976ab746cebd9267dfe56c8b66d16c7bfd2a7a88"
+metafile = true
+
+[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
 metafile = true
