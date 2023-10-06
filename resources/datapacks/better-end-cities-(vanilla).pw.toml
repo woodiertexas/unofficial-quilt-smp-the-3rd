@@ -1,0 +1,13 @@
+name = "Better End Cities (Vanilla)"
+filename = "better-end-city-vanilla.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Keq5OmV7/versions/A4rzUBH3/better-end-city-vanilla.zip"
+hash-format = "sha1"
+hash = "7f8134e165b7e20b93a9a6ddc9a8153b85e7c64c"
+
+[update]
+[update.modrinth]
+mod-id = "Keq5OmV7"
+version = "A4rzUBH3"

@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d61897931a50b74bd177465988eb0209ac9c3270fd68888da37bb762c5d31cde"
+hash = "072f6f8811b34e73106a9c81976ab746cebd9267dfe56c8b66d16c7bfd2a7a88"
 metafile = true
 
 [[files]]
@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b7aa80077a822823775ab923d90235a75483db88490fa4f815740ea7def834b0"
+hash = "250ce47cc7d7fa7d46ad2ce61b3c589cfbea49434bd6a74fc4fcd8fed13360ee"
 metafile = true
 
 [[files]]
@@ -494,6 +494,11 @@ metafile = true
 [[files]]
 file = "resources/datapacks/arboria.pw.toml"
 hash = "0f154f33b1eca6c514983dcfe415afc0fa01e6fe0cda616f63bc1bf983c8e885"
+metafile = true
+
+[[files]]
+file = "resources/datapacks/better-end-cities-(vanilla).pw.toml"
+hash = "c8084b6eaeec25a0ea6121f04c9300662ad8fc4e5fb8ce35fbbbc992270e8b9d"
 metafile = true
 
 [[files]]
