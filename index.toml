@@ -183,11 +183,6 @@ hash = "06a155cdcd720584f9a01544e6ddd9b20960532359e72183f5cf3565b46f23fd"
 metafile = true
 
 [[files]]
-file = "mods/groovyduvet.pw.toml"
-hash = "412139d37c023a7e50b7ab311be15a592f9173b91d456677cf144a8a48357d47"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
 metafile = true
@@ -205,11 +200,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
-metafile = true
-
-[[files]]
-file = "mods/jsonwrangler.pw.toml"
-hash = "b6a832c7f5cc8b6e91247f5becd90593a401adf89025e9dc492876a203db71b9"
 metafile = true
 
 [[files]]
@@ -260,11 +250,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "072f6f8811b34e73106a9c81976ab746cebd9267dfe56c8b66d16c7bfd2a7a88"
-metafile = true
-
-[[files]]
-file = "mods/mysterypotions.pw.toml"
-hash = "25143cd318957ffb058cb3c9e3cbb0f6497e7a7bbe6dc575b8d5dfa56097e511"
 metafile = true
 
 [[files]]
