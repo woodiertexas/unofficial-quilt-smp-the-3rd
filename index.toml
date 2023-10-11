@@ -17,10 +17,6 @@ file = "config/modmenu.json"
 hash = "e61694d0fad31bbdb05b48559dee527159e0c95700229b3e95a0790e11edae36"
 
 [[files]]
-file = "config/mythicmetals-config.json5"
-hash = "7872d403aa46d609e4a22d9a5533e186997694e6314bf8c80b813450f4998041"
-
-[[files]]
 file = "config/saplanting.json"
 hash = "3d299567a719f6256232a74e8c3e62a873a88c10deef623837b6c9cee3816ac9"
 
@@ -31,11 +27,6 @@ hash = "0445b912fda5f4517efc1ae723ad13add5b9a9d0f15ec21beb9e806cb7b988b2"
 [[files]]
 file = "config/tooltipscroll.json"
 hash = "b1eee945b3ee47f6fe7a189efdfa8aa0e4c20d088f04abb4a03907e15efae31a"
-
-[[files]]
-file = "mods/alloy-forgery.pw.toml"
-hash = "149062fec33cc9b361650d6aacbbb668381007e14ec6b1ef98fb7e4fe9c51685"
-metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
@@ -250,11 +241,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "072f6f8811b34e73106a9c81976ab746cebd9267dfe56c8b66d16c7bfd2a7a88"
-metafile = true
-
-[[files]]
-file = "mods/mythicmetals.pw.toml"
-hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
 metafile = true
 
 [[files]]
