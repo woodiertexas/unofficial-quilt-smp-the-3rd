@@ -571,3 +571,7 @@ metafile = true
 [[files]]
 file = "resources/pack.png"
 hash = "65f7f1aa7c997d6313ce51c8037b233fbcf9c8b91372b2951ffe36ff42e81f28"
+
+[[files]]
+file = "servers.dat"
+hash = "ace37cc432d3de8ef91cde9fc17442bbd1a29ca47eb63002eef6d513975944e7"
