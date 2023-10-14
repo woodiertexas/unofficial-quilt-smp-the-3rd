@@ -1,4 +1,6 @@
-# Unofficial Quilt SMP 3
+[![Get the modpack on Modrinth.](https://cdn.jsdelivr.net/gh/intergrav/devins-badges/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/uq-smp)
+
+## Unofficial Quilt SMP 3
 
 This repo contains the packwiz files for the Unofficial Quilt SMP 3 modpack.
 
