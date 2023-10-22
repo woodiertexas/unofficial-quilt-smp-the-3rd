@@ -551,6 +551,14 @@ file = "resources/datapacks/smp_overrides/data/arboria/worldgen/placed_feature/b
 hash = "fdb2e66aba551e2d97c9efea6ed7cfb0503c1bd48cebe5333b012cab9989f8b2"
 
 [[files]]
+file = "resources/datapacks/smp_overrides/data/enchantery/tags/enchantment/always_obtainable_from_enchanting_table.json"
+hash = "0d636abfbfec4385c7e5258c9bdea8e60dbef71a55083ad567c575a5a8265da3"
+
+[[files]]
+file = "resources/datapacks/smp_overrides/data/enchantery/tags/enchantment/treasure.json"
+hash = "e5a2c22abaf73b8f653fdd5daa64ad0e331fa38c7324b47c9a3a219435723c87"
+
+[[files]]
 file = "resources/datapacks/smp_overrides/pack.mcmeta"
 hash = "b98b3144b92a8db6639465bba155a8542528217b0f414f40ac3047ebe555b229"
 
