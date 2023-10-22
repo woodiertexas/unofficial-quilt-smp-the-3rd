@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "38fa2e2a08684caf0dbc97d22e521f132ea5a9d2a592f9c550fe05404984bfd6"
+hash = "ec5f0ed9e8d3b79ea61f7c79127b5f113e23ac96e92f5ba409084c8d0ab7da5e"
 metafile = true
 
 [[files]]
@@ -105,12 +105,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "e1281e7858663cb1ef53f91e56005ea165f7d95473e12891db40f3266cf755e1"
+hash = "1534cc48fe10f96a488339c716e8e8b2b639cf9355b8949e09fa264991f16432"
 metafile = true
 
 [[files]]
 file = "mods/emuno.pw.toml"
-hash = "3fe8ab29c47d04dd0a80b3886534bfa56bfcab9a490dbfdc96c4516db8c477b3"
+hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
 metafile = true
 
 [[files]]
@@ -125,12 +125,12 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
-hash = "38ed72cfb9405c7b40079e1cc6d335806a3fc0c7f98aee04a44adacdb5452ece"
+hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "8c3a4d0dacc0dc1194bc151d790f081d3178f3761c390bd9cc2ef33c16ef9e44"
+hash = "63d1369f1a4e7d064da2981cfdf4c4295b8eeba88dd06ddbdbabe3506627bd32"
 metafile = true
 
 [[files]]
@@ -165,12 +165,12 @@ metafile = true
 
 [[files]]
 file = "mods/goated.pw.toml"
-hash = "194ef54312ce3c7b33ff9580d2c1a9d2dcebd69511dd9c9e9c61e0220230f70d"
+hash = "b5c731e02671d10390af0578c5e625b4231bb71595979e6ac776f45a9c159a40"
 metafile = true
 
 [[files]]
 file = "mods/goml-reserved.pw.toml"
-hash = "06a155cdcd720584f9a01544e6ddd9b20960532359e72183f5cf3565b46f23fd"
+hash = "100ee97cb800cdf63babc997caed95c74473880eeb52d9798275d97f0b74dc47"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
+hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e2979be57609f1f74666d2f69c003836b8551941e761a79707fbf3f9562dc603"
+hash = "d354dda98d65a789e411d116321bb50a7cbe6852b1f36fa77451068922fa50e7"
 metafile = true
 
 [[files]]
@@ -235,12 +235,12 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "90f77207f5c29c26eecee422ec52ed124f024362068f70598fcd3fd1fc483b4c"
+hash = "3458345d15791fefb8ab00f6d0826843fae75061055230abaa6d393c7bce5702"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "072f6f8811b34e73106a9c81976ab746cebd9267dfe56c8b66d16c7bfd2a7a88"
+hash = "dfa389fc38ba0706e66328cfedad7bf029f4a2a986127489c42b64c6d9958e28"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/patched.pw.toml"
-hash = "24362d3c0b327b2cc314380519df63e035f4386075672e4585b8f36b04d3380e"
+hash = "853144f35669c1dc0d773137fa06837fc9b430eaf142a2cc75e4fd37a34facea"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "a41dbddd6d8d0500fe2dfaa5115ea56393ce8556372da24633ef681273f4dc3c"
+hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "01b6a0a2265504e1738552b92f0dee74f47d0b599dcd0a8d5ce09ae45b499c00"
+hash = "7822dc57554f8bd9ceb824d1ec0b79b3c153775e991e5dfb2fa0febf27c61f79"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3da4278dce5b43b0e0288cea2f86b342aa231b4188d23f3462481afd6d50b197"
+hash = "919980794d91ef11531ac64fc9a110f6d8ddebf8a7ed7e851529d2781f55816b"
 metafile = true
 
 [[files]]
