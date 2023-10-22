@@ -1,13 +1,13 @@
 name = "The Bumblezone - Quilt/Fabric"
-filename = "the_bumblezone-7.0.19+1.20.1-quilt.jar"
+filename = "the_bumblezone-7.0.21+1.20.1-quilt.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eA8SXqWL/versions/sayIr5bE/the_bumblezone-7.0.19%2B1.20.1-quilt.jar"
+url = "https://cdn.modrinth.com/data/eA8SXqWL/versions/UYRzbZTL/the_bumblezone-7.0.21%2B1.20.1-quilt.jar"
 hash-format = "sha1"
-hash = "218b81ac44824084162a18de2f74dfde5df2ab87"
+hash = "e24afbed9591fde220319abe48e23debe73c1b13"
 
 [update]
 [update.modrinth]
 mod-id = "eA8SXqWL"
-version = "sayIr5bE"
+version = "UYRzbZTL"

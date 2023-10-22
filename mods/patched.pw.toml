@@ -1,13 +1,13 @@
 name = "Patched"
-filename = "Patched-quilt-3.2.2+1.20.1.jar"
+filename = "Patched-quilt-3.2.3+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IBlGrJtC/versions/k0k74uDM/Patched-quilt-3.2.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/IBlGrJtC/versions/DemVFTVi/Patched-quilt-3.2.3%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "7ae553e23521af7f819196ee2aa7262a784a1039"
+hash = "7f1df0b629c822646be727a93d55e008562f7ed7"
 
 [update]
 [update.modrinth]
 mod-id = "IBlGrJtC"
-version = "k0k74uDM"
+version = "DemVFTVi"

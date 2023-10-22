@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "6d52f489c0129b5246a8382405fbdd6511b78b66f51d6a16a735dae33278babd"
+hash = "bda4513bf7dba452c3c432a66a3605138475d152710577cd58e498ce37bb194a"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "1534cc48fe10f96a488339c716e8e8b2b639cf9355b8949e09fa264991f16432"
+hash = "61d4f489d43922fb32e1868ddce2129ecfaddb40e42029908d41142057a28f89"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "63d1369f1a4e7d064da2981cfdf4c4295b8eeba88dd06ddbdbabe3506627bd32"
+hash = "7facc29e47251fc06a88be00e41312098392b2dd2005e90092fcf90563e07d98"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dfa389fc38ba0706e66328cfedad7bf029f4a2a986127489c42b64c6d9958e28"
+hash = "edbcee8c3edd7118334406c84d30591dab92e8ecb27e68538af1005eac6b4663"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/patched.pw.toml"
-hash = "853144f35669c1dc0d773137fa06837fc9b430eaf142a2cc75e4fd37a34facea"
+hash = "424671cbccc985bc7927197eb8972993da5ef180e331b31b9c8f9a986eef9bdc"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "c89835f045a03832c287470cd1729a70f1265e3eac7b3cdaf603c3c1fd677689"
+hash = "71a584ee7d09de1685259a9d35bf4917901bdf88800a73cf0cf246ecc415626b"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "7822dc57554f8bd9ceb824d1ec0b79b3c153775e991e5dfb2fa0febf27c61f79"
+hash = "5493f0eccda5f7cbf5880c1290368931379dafda5b696142d172d8332683c399"
 metafile = true
 
 [[files]]
