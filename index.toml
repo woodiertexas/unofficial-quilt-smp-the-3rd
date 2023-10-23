@@ -555,10 +555,6 @@ file = "resources/datapacks/smp_overrides/data/enchantery/tags/enchantment/alway
 hash = "8f33b196c8efcddf8293d5758094c11ba9c13d481a1ca6bd3ed6f429a788c4ef"
 
 [[files]]
-file = "resources/datapacks/smp_overrides/data/enchantery/tags/enchantment/treasure.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "resources/datapacks/smp_overrides/pack.mcmeta"
 hash = "b98b3144b92a8db6639465bba155a8542528217b0f414f40ac3047ebe555b229"
 
