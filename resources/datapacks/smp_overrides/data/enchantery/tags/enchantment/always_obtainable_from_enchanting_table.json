@@ -2,6 +2,8 @@
 	"replace": false,
 	"values": [
 		"fallingtree:chopper",
-		"the_bumblezone:comb_cutter"
+		"the_bumblezone:comb_cutter",
+		"the_bumblezone:potent_poison",
+		"the_bumblezone:neurotoxins"
 	]
 }
