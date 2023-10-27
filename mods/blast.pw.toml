@@ -1,0 +1,13 @@
+name = "BLAST"
+filename = "blast-1.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hrVBD9fd/versions/pSmVu2ni/blast-1.12.jar"
+hash-format = "sha1"
+hash = "b63c6d7c91f8535261280e95a48b6ff719bb051e"
+
+[update]
+[update.modrinth]
+mod-id = "hrVBD9fd"
+version = "pSmVu2ni"
