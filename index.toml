@@ -172,6 +172,11 @@ hash = "769e07f03e65c6adb8708f4da6c476365b24aad10f943514d6bbd8b0f57ff327"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ce46f117a69cf45250fe90a6a9d964c3fbae3a80abc3a21ab94f68d453dbb3bf"
+metafile = true
+
+[[files]]
 file = "mods/glowcase.pw.toml"
 hash = "f5e398242efadec260e29a2f8bf86a59dffd32ff9976abd7b9021589483ce153"
 metafile = true
@@ -254,6 +259,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "edbcee8c3edd7118334406c84d30591dab92e8ecb27e68538af1005eac6b4663"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "68e53bbbabf572e5bb4efa066a15dcc92ce86ebb75d2bb477a5d8e6c560c533a"
 metafile = true
 
 [[files]]
