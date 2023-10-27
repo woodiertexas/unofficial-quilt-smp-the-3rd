@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/computercraft-client.toml"
+hash = "464a29c42407e702ff9e421a7d1e17b133a5915cb28fd6e5f5b4e87407fa7a45"
+
+[[files]]
 file = "config/fabrication/features.ini"
 hash = "c1f26d7a4938b8e60004b16799aa8da389830e3f96df7f5f9f1abbf3eee7d581"
 
@@ -27,6 +31,10 @@ hash = "0445b912fda5f4517efc1ae723ad13add5b9a9d0f15ec21beb9e806cb7b988b2"
 [[files]]
 file = "config/tooltipscroll.json"
 hash = "b1eee945b3ee47f6fe7a189efdfa8aa0e4c20d088f04abb4a03907e15efae31a"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
@@ -61,6 +69,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "7f3f11f7ad41a1db22cac43f2954dafc72bd7af56ce2a677167fbcf7e9fab2f4"
 metafile = true
 
 [[files]]
@@ -436,6 +449,11 @@ metafile = true
 [[files]]
 file = "mods/volume-fix.pw.toml"
 hash = "1b79367022b6b1c458fa1be25ba2c9d379426845a43aa581957a5d9d3381a83e"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "6d61886a3e69c859caca1742792af1d5e47e524706e4d208b785572f746acd4a"
 metafile = true
 
 [[files]]
