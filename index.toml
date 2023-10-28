@@ -72,6 +72,11 @@ hash = "ca36016330a84df230fbfb04d41f56bc794546d692ff1c0f39b930bf50497a6a"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+hash = "82a31265d90c885eadccd59c2a35ef795fd526865091243933d52717ef1db4be"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
@@ -214,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
 metafile = true
 
 [[files]]
