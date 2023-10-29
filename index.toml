@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/computercraft-client.toml"
+hash = "464a29c42407e702ff9e421a7d1e17b133a5915cb28fd6e5f5b4e87407fa7a45"
+
+[[files]]
 file = "config/fabrication/features.ini"
 hash = "c1f26d7a4938b8e60004b16799aa8da389830e3f96df7f5f9f1abbf3eee7d581"
 
@@ -27,6 +31,10 @@ hash = "0445b912fda5f4517efc1ae723ad13add5b9a9d0f15ec21beb9e806cb7b988b2"
 [[files]]
 file = "config/tooltipscroll.json"
 hash = "b1eee945b3ee47f6fe7a189efdfa8aa0e4c20d088f04abb4a03907e15efae31a"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
@@ -59,8 +67,23 @@ hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
 metafile = true
 
 [[files]]
+file = "mods/blast.pw.toml"
+hash = "ca36016330a84df230fbfb04d41f56bc794546d692ff1c0f39b930bf50497a6a"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.pw.toml"
+hash = "82a31265d90c885eadccd59c2a35ef795fd526865091243933d52717ef1db4be"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "7f3f11f7ad41a1db22cac43f2954dafc72bd7af56ce2a677167fbcf7e9fab2f4"
 metafile = true
 
 [[files]]
@@ -159,6 +182,11 @@ hash = "769e07f03e65c6adb8708f4da6c476365b24aad10f943514d6bbd8b0f57ff327"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ce46f117a69cf45250fe90a6a9d964c3fbae3a80abc3a21ab94f68d453dbb3bf"
+metafile = true
+
+[[files]]
 file = "mods/glowcase.pw.toml"
 hash = "f5e398242efadec260e29a2f8bf86a59dffd32ff9976abd7b9021589483ce153"
 metafile = true
@@ -191,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
 metafile = true
 
 [[files]]
@@ -241,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "edbcee8c3edd7118334406c84d30591dab92e8ecb27e68538af1005eac6b4663"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "68e53bbbabf572e5bb4efa066a15dcc92ce86ebb75d2bb477a5d8e6c560c533a"
 metafile = true
 
 [[files]]
@@ -436,6 +474,11 @@ metafile = true
 [[files]]
 file = "mods/volume-fix.pw.toml"
 hash = "1b79367022b6b1c458fa1be25ba2c9d379426845a43aa581957a5d9d3381a83e"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "6d61886a3e69c859caca1742792af1d5e47e524706e4d208b785572f746acd4a"
 metafile = true
 
 [[files]]

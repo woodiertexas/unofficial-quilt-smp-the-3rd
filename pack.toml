@@ -1,12 +1,12 @@
 name = "Unofficial Quilt SMP"
 author = "woodiertexas"
-version = "1.2.1"
+version = "1.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "65ba6ed73bc24fbff5fbf9979f3c71a88c1a2f22829c1b236ac9b4cf3d338ea9"
+hash = "471d5776d3eb25375d350a037e1a072bc0c9bbf8e8e10dcdf147dcf455cc67ee"
 
 [versions]
 minecraft = "1.20.1"
