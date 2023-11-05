@@ -1,0 +1,13 @@
+name = "Normal Damage"
+filename = "normaldamage-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qv3o0VDX/versions/FkqL4PMc/normaldamage-1.0.0-fabric.jar"
+hash-format = "sha1"
+hash = "7e8b748ce8202d539ab872e7c76215bfbb114d7d"
+
+[update]
+[update.modrinth]
+mod-id = "Qv3o0VDX"
+version = "FkqL4PMc"

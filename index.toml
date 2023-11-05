@@ -292,6 +292,11 @@ hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
+file = "mods/normal-damage.pw.toml"
+hash = "11228c5faf998937c263a313f402033a9edafb05911343a2c5b84fd01f7aa064"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "a60f50e7c0ae6420e4a36f4e2fabaa4663bf79236531c1b23fd9c425121b2203"
 metafile = true
