@@ -37,6 +37,11 @@ file = "config/xaeroworldmap.txt"
 hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "518afbd739263e2daad886e514ddb0005daed4c5873f60f66b507ed35506c29e"
 metafile = true
